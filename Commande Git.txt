@@ -1,0 +1,20 @@
+  				
+----------------------------------------------------------------------------------
+----------------------------------------COMMANDE DE BASE GIT----------------------
+----------------------------------------------------------------------------------
+
+git init
+
+git add --all
+
+git remote add "nom_du_dossier_de_destination" "URL_de_destination"
+
+git commit -m "message_du_commit"
+
+git pull "nom_du_dossier_de_destination" "nom_de_la_branche(master par defaut)"
+
+git push "nom_du_dossier_de_destination" "nom_de_la_branche(master par defaut)"
+
+
+---------------------------------------------------------------------------------
+
