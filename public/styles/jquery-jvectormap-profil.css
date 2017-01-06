@@ -1,0 +1,129 @@
+.jvectormap-label {
+    position: absolute;
+    display: none;
+    border: solid 1px #CDCDCD;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #292929;
+    color: white;
+    font-family: sans-serif, Verdana;
+    font-size: smaller;
+    padding: 3px;
+}
+
+.jvectormap-zoomin, .jvectormap-zoomout {
+    position: absolute;
+    left:15px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #292929;
+    padding: 3px;
+    color: white;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    line-height: 10px;
+    text-align: center;
+}
+
+.jvectormap-title{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    top: 15px;
+    width: 150px;
+    margin-left:5px;
+}
+
+.jvectormap-nogo{
+    background-color: #599AEA;
+    border-radius: 3px 3px 3px 3px;
+    color: #000000;
+    font-size: 12px;
+    height: 10px;
+    left: 10px;
+    margin-left: 5px;
+    padding: 3px;
+    position: absolute;
+    text-align: left;
+    top: 530px;
+    width: 10px;
+}
+
+.jvectormap-nogo-title{
+    color: #000000;
+    font-size: 12px;
+    height: 10px;
+    left: 30px;
+    margin-left: 5px;
+    padding: 3px;
+    position: absolute;
+    text-align: left;
+    top: 527px;
+    width: 100px;
+}
+
+.jvectormap-detail{
+    color: #000000;
+    font-size: 12px;
+    height: 10px;
+    left: 450px;
+    margin-left: 5px;
+    padding: 3px;
+    position: absolute;
+    text-align: left;
+    top: 527px;
+    width: 400px;
+}
+
+.jvectormap-go-title{
+    color: #000000;
+    font-size: 12px;
+    height: 10px;
+    left: 170px;
+    margin-left: 5px;
+    padding: 3px;
+    position: absolute;
+    text-align: left;
+    top: 527px;
+    width: 100px;
+}
+
+.jvectormap-go{
+    background-color: #39B23B;
+    border-radius: 3px 3px 3px 3px;
+    color: #000000;
+    font-size: 12px;
+    height: 10px;
+    left: 150px;
+    margin-left: 5px;
+    padding: 3px;
+    position: absolute;
+    text-align: left;
+    top: 530px;
+    width: 10px;
+}
+
+.jvectormap-zoomin {
+    top: 50px;
+}
+
+.jvectormap-zoomout {
+    top: 70px;
+}
+
+#world-map{
+    width:850px;
+    height:570px;
+}
+
+.jvectormap-container
+{
+    border-radius:8px;
+}

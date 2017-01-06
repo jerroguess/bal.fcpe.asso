@@ -1,0 +1,228 @@
+
+body {
+    color: #333;
+    font-family: Arial,Helvetica,sans-serif !important;
+    font-size: 12px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+	background: url("../images/header_total.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.navbar-collapse{
+	height: inherit ! important;
+	overflow: hidden;
+}
+
+footer {
+    background: url("../images/fcpe_pied.png") repeat-x rgba(0, 0, 0, 0);
+    
+    height: 100px;
+    min-width: 980px;
+    overflow: hidden;
+	padding: 0;
+	clear:both;
+}
+.footer-inter{
+	background: url("../images/pied_fcpe.png") no-repeat scroll 0 100% rgba(0, 0, 0, 0);
+	height: 100px;
+    min-width: 980px;
+    overflow: hidden;
+	padding: 0;
+	clear:both;
+}
+
+footer .row:before, footer .row:after {
+    content: "";
+    display: table;
+}
+footer .row:after {
+    clear: both;
+}
+footer .row:before, footer .row:after {
+    content: "";
+    display: table;
+}
+footer .row {
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    margin-top: 18px;
+}
+
+footer ul, footer li{
+    list-style: none outside none !important;
+}
+footer a {
+    color: #000;
+}
+
+.imgPanoramio{
+    width:148px !important;
+    height:148px !important;
+    margin-right:10px;
+}
+
+.imgZoom{
+    width:64px !important;
+    height:64px !important;
+    margin-top: 30px;
+}
+
+#hover-cap-4col .thumbnail,
+#hover-cap-3col .thumbnail,
+#hover-cap-unique .thumbnail,
+#hover-cap-6col .thumbnail {
+        position:relative;
+        overflow:hidden;	
+}
+.caption {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.4);
+    width: 100%;
+    height: 100%;
+    color:#fff !important;
+}
+.caption p {
+        padding:6px;
+}
+.thumbnails > li {
+    margin-left: 30px;
+}
+.thumbnails > li {
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.span3 {
+    width: 145px;
+    height: 200px;
+}
+
+.thumbnail {
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+    display: block;
+    line-height: 20px;
+    padding: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.thumbnails:before, .thumbnails:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.thumbnails:after {
+    clear: both;
+}
+.thumbnails:before, .thumbnails:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.thumbnails {
+    margin-left: -30px;
+}
+.thumbnails {
+    list-style: none outside none;
+    margin-left: -20px;
+}
+.thumbnails ul, .thumbnails ol {
+    margin: 0 0 10px 25px;
+    padding: 0;
+}
+.imgAvatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    border: 0 none;
+    max-width: 100%;
+    vertical-align: middle;
+    width: 145px;
+    height: 145px !important;
+}
+
+.imgAvatarUpload{
+    vertical-align: middle;
+    width: 145px;
+    height: 145px !important;
+}
+
+footer p{
+    font-size: 12px;
+}
+
+.map-container-ville, .map-container-pays{
+    width:360px;
+    height:296px;
+    border-radius:8px;
+}
+
+.map-container-region, .map-container-departement{
+    width:360px;
+    height:252px;
+    border-radius:8px;
+}
+
+.splitter {
+    height: 1px;
+    margin: 9.5px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+
+.logo{
+    height:26px;
+}
+
+.navbar-default {
+    background-color: transparent !important;
+}
+
+.navbar-nav{
+	background: url("../images/tutorials.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	height: 90px;
+    padding-top: 17px;
+	width: 225px;
+}
+
+#navLogin a:hover{
+	color:white !important;
+}
+
+#navLogin a{
+	color:white !important;
+}
+
+#navLogin{
+	background-color:transparent !important;
+	margin-left: 14px;
+}
+
+#navLogin:hover{
+	background-color:transparent !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-nav > li > a:focus{
+	background-color:transparent !important;
+	color:white !important;
+}
+
+img.fcpe {
+    border: medium none;
+    height: 40px;
+    width: 40px;
+	margin-top: -10px;
+}
+
+h1{
+	font-family: Arial,Helvetica,sans-serif !important;
+	color: #ff7243 !important;
+}

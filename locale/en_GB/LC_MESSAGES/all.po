@@ -1,0 +1,1318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MonuManiak\n"
+"POT-Creation-Date: 2014-05-26 21:36+0100\n"
+"PO-Revision-Date: 2014-05-26 21:36+0100\n"
+"Last-Translator: rouilly nicolas <nrouilly@yahoo.fr>\n"
+"Language-Team: team <nrouilly@yahoo.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: gettext;_\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\monumaniak\\views\\pages\\.\n"
+"X-Poedit-SearchPath-1: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\monumaniak\\views\\cadres\\.\n"
+"X-Poedit-SearchPath-2: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\monumaniak\\views\\erreurs\\.\n"
+"X-Poedit-SearchPath-3: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\monumaniak\\views\\masters\\.\n"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_carte.php:16
+msgid "cadre_carte_reduire"
+msgstr "Reduce"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_carte.php:17
+msgid "cadre_carte_agrandir"
+msgstr "Enlarge"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:20
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:28
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:31
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:20
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:28
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:48
+msgid "cadre_hab"
+msgstr "people"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:24
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:49
+msgid "cadre_population"
+msgstr "Population :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:25
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:28
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:25
+msgid "cadre_superficie"
+msgstr "Area :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:29
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:32
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:29
+msgid "cadre_densite"
+msgstr "Density :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:33
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:33
+msgid "cadre_prefecture"
+msgstr "Prefecture :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:46
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:50
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:54
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:40
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:81
+msgid "cadre_voirpage"
+msgstr "see page"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_departement.php:37
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:37
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:55
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_region.php:37
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:82
+msgid "cadre_wikipedia"
+msgstr "Wikipedia link :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_flechage_search.php:25
+msgid "inc_pasaffichage"
+msgstr "Not available display&nbsp;&nbsp;"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_flechage_search.php:38
+msgid "inc_a"
+msgstr "of"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_flechage_search.php:64
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_flechage_search.php:137
+msgid "inc_pageprecedente"
+msgstr "Previous page"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_flechage_search.php:157
+msgid "inc_pagesuivante"
+msgstr "Next page"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:73
+msgid "vbo_visites_ville"
+msgstr "City :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:25
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:123
+msgid "inc_media_categorie"
+msgstr "Category :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:29
+msgid "cadre_notice"
+msgstr "Notice :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:33
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:86
+msgid "cadre_gps"
+msgstr "GPS coordinates :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:43
+msgid "cadre_elementprotege"
+msgstr "Element protected :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:48
+msgid "cadre_periodeconstruction"
+msgstr "Construction period :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:53
+msgid "cadre_propriete"
+msgstr "Property :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_lieu.php:65
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:105
+msgid "vbo_menu_meteo_titre"
+msgstr "Weather"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_liste_anonyme.php:59
+msgid "inc_listecomplete"
+msgstr "See full list"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_media_vignette.php:76
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_media_vignette.php:78
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:84
+msgid "inc_image"
+msgstr "Picture"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:37
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_pays.php:42
+msgid "cadre_capitale"
+msgstr "Capital :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:23
+msgid "cadre_ville_jour"
+msgstr "Day"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:31
+msgid "cadre_ville_jours"
+msgstr "Days"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:35
+msgid "cadre_ville_semaine"
+msgstr "Week"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:55
+msgid "cadre_ville_typeville"
+msgstr "City in an urban area"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:58
+msgid "cadre_ville_typecampagne"
+msgstr "Town in a rural area"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:61
+msgid "cadre_ville_typevillage"
+msgstr "City in a village sector"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:64
+msgid "cadre_ville_typemontagne"
+msgstr "City in a mountainous area"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:78
+msgid "cadre_altitude"
+msgstr "Average altitude :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\cadres\./unit/cadre_ville.php:90
+msgid "cadre_proximite"
+msgstr "List of proximity cities :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.401.php:14
+msgid "cadre_erreur_401_titre"
+msgstr "Login required :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.401.php:16
+msgid "cadre_erreur_401_titre_description"
+msgstr "To access this page you must be connected to MonuManiak."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.401.php:18
+msgid "cadre_erreur_connexion"
+msgstr "Login"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.404.php:14
+msgid "cadre_erreur_404_titre"
+msgstr "Error 404 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.404.php:16
+msgid "cadre_erreur_404_description"
+msgstr "Page not available."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.404.php:18
+msgid "cadre_erreur_404_lien"
+msgstr "Back to home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.419.php:14
+msgid "cadre_erreur_419_titre"
+msgstr "Logout required :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.419.php:16
+msgid "cadre_erreur_419_description"
+msgstr ""
+"A user is already connected with a MonuManiak account. If you want to access "
+"this page you need to disconnect it."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.419.php:18
+msgid "cadre_erreur_401_lien"
+msgstr "Logout"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.427.php:14
+msgid "cadre_erreur_427_titre"
+msgstr "Countries not supported :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.427.php:16
+msgid "cadre_erreur_427_description"
+msgstr ""
+"Your country is not yet supported, but our team works there. You will be "
+"redirected to the French version."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.427.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:155
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:156
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citycountry.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citydepartement.php:22
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:20
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementcountry.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.media.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:26
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.regioncountry.php:19
+msgid "inc_accueil"
+msgstr "Home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.500.php:14
+msgid "cadre_erreur_500_titre"
+msgstr "Error 500 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.500.php:16
+msgid "cadre_erreur_500_description"
+msgstr "Thank you to renew your request."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.500.php:18
+msgid "cadre_erreur_500_lien"
+msgstr "Back to home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.503.php:14
+msgid "cadre_erreur_503_titre"
+msgstr "Error 503 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.503.php:16
+msgid "cadre_erreur_503_description"
+msgstr "Internal error, thank you to renew your request."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.503.php:18
+msgid "cadre_erreur_503_lien"
+msgstr "Back to home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.contactbanissement.php:14
+msgid "cadre_erreur_contactbanissement_titre"
+msgstr "Temporary limit :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.contactbanissement.php:16
+msgid "cadre_erreur_contactbanissement_description"
+msgstr ""
+"This service allows a single use every 10 minutes to limit abuse. Thank you "
+"for your patience before reposting a new contact."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.contactbanissement.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurcity.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurregion.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.reportbanissement.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.suggestionbanissement.php:18
+msgid "cadre_erreur_erreurcity_lien"
+msgstr "Back to home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurcity.php:14
+msgid "cadre_erreur_erreurcity_titre"
+msgstr "Warning this city does not exist :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurcity.php:16
+msgid "cadre_erreur_erreurcity_description"
+msgstr "To display a city page please click on the links of city."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurcontact.php:14
+msgid "cadre_erreur_erreurcontact_titre"
+msgstr "Warning you have not filled all the required fields :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurcontact.php:16
+msgid "cadre_erreur_erreurcontact_description"
+msgstr "To validate your contact, you need to fill it all the fields."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurdepartement.php:14
+msgid "cadre_erreur_erreurdepartement_titre"
+msgstr "Warning this department does not exist :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurdepartement.php:16
+msgid "cadre_erreur_erreurdepartement_description"
+msgstr "To display the departments page please click on the links departments."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurdepartement.php:18
+msgid "cadre_erreur_erreurdepartement_lien"
+msgstr "Back to home"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurprevenir.php:14
+msgid "cadre_erreur_erreurprevenir_titre"
+msgstr "Warning you have not filled all the required fields :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurprevenir.php:16
+msgid "cadre_erreur_erreurprevenir_description"
+msgstr "To tell your friends that you need to fill all required fields."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurrecherchevide.php:14
+msgid "cadre_erreur_erreurrecherchevide_titre"
+msgstr "Please refine your search :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurrecherchevide.php:16
+msgid "cadre_erreur_erreurrecherchevide_description"
+msgstr ""
+"Warning your research is not specific enough, please select a city or enter "
+"search terms."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurregion.php:14
+msgid "cadre_erreur_erreurregion_titre"
+msgstr "Warning this region does not exist :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurregion.php:16
+msgid "cadre_erreur_erreurregion_description"
+msgstr "To display the regions page please click on the links regions."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurremplissage.php:14
+msgid "cadre_erreur_erreurremplissage_titre"
+msgstr "Warning you have not filled all the required fields :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.erreurremplissage.php:16
+msgid "cadre_erreur_erreurremplissage_description"
+msgstr ""
+"You must enter all required fields. These fields are marked with an asterisk "
+"(*)."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.reportbanissement.php:14
+msgid "cadre_erreur_reportbanissement_titre"
+msgstr "Temporary limit :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.reportbanissement.php:16
+msgid "cadre_erreur_reportbanissement_description"
+msgstr ""
+"This service allows a single use all the minute to limit abuse. Thank you "
+"for your patience before reposting a new bug report."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.suggestionbanissement.php:14
+msgid "cadre_erreur_suggestionbanissement_titre"
+msgstr "Temporary limit :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\erreurs\./unit/view.bo.suggestionbanissement.php:16
+msgid "cadre_erreur_suggestionbanissement_description"
+msgstr ""
+"This service allows a single use every 10 minutes to limit abuse. Thank you "
+"for your patience before reposting a new suggestion."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\masters\./unit/class.bo.master.main.php:34
+msgid "master_titre"
+msgstr "MonuManiak: explore the historical monuments."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\masters\./unit/class.bo.master.main.php:45
+msgid "master_description"
+msgstr "Tourism platform that lets you share your desires to escape."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\masters\./unit/class.bo.master.main.php:46
+msgid "master_motclef"
+msgstr "tourism,event,shop,place,monument,trip,walk,organize,holiday,visit"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\masters\./unit/class.bo.master.main.php:59
+msgid "master_droits"
+msgstr "All rights reserved"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:73
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:94
+msgid "inc_static_pasphotodisponible"
+msgstr "No photos available"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:91
+msgid "inc_static_panoramio"
+msgstr ""
+"Pictures provided by <a href=\"http://www.panoramio.com/\">Panoramio</a>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:221
+msgid "inc_static_tornade"
+msgstr "Tornado"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:222
+msgid "inc_static_tempetetropicale"
+msgstr "Tropical storm"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:223
+msgid "inc_static_ouragan"
+msgstr "Hurricane"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:224
+msgid "inc_static_oragesviolents"
+msgstr "Violent storms"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:225
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:266
+msgid "inc_static_orages"
+msgstr "Storms"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:226
+msgid "inc_static_pluieneige"
+msgstr "Rain and snow"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:227
+msgid "inc_static_pluiegresil"
+msgstr "Rain and sleet"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:228
+msgid "inc_static_neigegresil"
+msgstr "Melee snow sleet"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:229
+msgid "inc_static_bruineverglassante"
+msgstr "Freezing drizzle"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:230
+msgid "inc_static_bruine"
+msgstr "Drizzle"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:231
+msgid "inc_static_pluieverglassante"
+msgstr "Freezing Rain"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:232
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:233
+msgid "inc_static_pluie"
+msgstr "Rain"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:234
+msgid "inc_static_chuteneige"
+msgstr "Snowfall"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:235
+msgid "inc_static_legereneige"
+msgstr "Light snowfall"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:236
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:237
+msgid "inc_static_neige"
+msgstr "Snow"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:238
+msgid "inc_static_grele"
+msgstr "Hail"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:239
+msgid "inc_static_gresil"
+msgstr "Hail"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:240
+msgid "inc_static_poussiere"
+msgstr "Dust"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:241
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:243
+msgid "inc_static_brumeux"
+msgstr "Misty"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:242
+msgid "inc_static_haze"
+msgstr "Haze"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:244
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:245
+msgid "inc_static_venteux"
+msgstr "Windy"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:246
+msgid "inc_static_froid"
+msgstr "Cold"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:247
+msgid "inc_static_nuageux"
+msgstr "Cloudy"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:248
+msgid "inc_static_tresnuageuxnuit"
+msgstr "Mostly cloudy (night)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:249
+msgid "inc_static_tresnuageuxjour"
+msgstr "Mostly cloudy (day)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:250
+msgid "inc_static_partiellementensoleille"
+msgstr "Partly cloudy (night)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:251
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:265
+msgid "inc_static_partiellementnuageux"
+msgstr "Partly cloudy (day)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:252
+msgid "inc_static_clairenuit"
+msgstr "Clear night"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:253
+msgid "inc_static_ensolleille"
+msgstr "Sunny"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:254
+msgid "inc_static_beautempsnuit"
+msgstr "Good time (night)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:255
+msgid "inc_static_beautempsjour"
+msgstr "Good time (day)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:256
+msgid "inc_static_pluiemele"
+msgstr "Rain mixed with hail"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:257
+msgid "inc_static_chaud"
+msgstr "Hot"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:258
+msgid "inc_static_oragesisole"
+msgstr "Isolated thunderstorms"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:259
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:260
+msgid "inc_static_oragesintermittents"
+msgstr "Thunderstorms"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:261
+msgid "inc_static_averseseparses"
+msgstr "Light showers"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:262
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:264
+msgid "inc_static_forteschuteneige"
+msgstr "Heavy snow"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:263
+msgid "inc_static_aversesnaigeeparses"
+msgstr "Light snowfall"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:267
+msgid "inc_static_chutesneige"
+msgstr "Snowfall"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:268
+msgid "inc_static_oragesisoles"
+msgstr "Isolated thunderstorms"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:269
+msgid "inc_static_nondisponible"
+msgstr "Not available"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_dimanche"
+msgstr "Sunday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_lundi"
+msgstr "Monday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_mardi"
+msgstr "Tuesday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_mercredi"
+msgstr "Wednesday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_jeudi"
+msgstr "Thursday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_vendredi"
+msgstr "Friday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:322
+msgid "inc_static_samedi"
+msgstr "Saturday"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_janvier"
+msgstr "January"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_fevrier"
+msgstr "February"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_mars"
+msgstr "March"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_avril"
+msgstr "April"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_mai"
+msgstr "May"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_juin"
+msgstr "June"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_juillet"
+msgstr "July"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_aout"
+msgstr "August"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_septembre"
+msgstr "September"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_octobre"
+msgstr "October"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_novembre"
+msgstr "November"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:323
+msgid "inc_static_decembre"
+msgstr "December"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:336
+msgid "inc_static_fourniyahoo"
+msgstr "Data provided by <a href=\"http://www.yahoo.fr/\">Yahoo</a>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./core/inc_form_controls_statiques.php:342
+msgid "inc_static_pasmeteo"
+msgstr "No weather available."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.about.php:14
+msgid "vbo_info_apropos"
+msgstr "About"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.about.php:15
+msgid "vbo_info_aproposdescription"
+msgstr ""
+"MonuManiak.com est un site d&eacute;velopp&eacute; par FCPE, SARL au "
+"capital de 7500 &euro;. Ce site a &eacute;t&eacute; cr&eacute;&eacute; en "
+"2014."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:13
+msgid "vbo_banner_titre"
+msgstr "Banners"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:16
+msgid "vbo_banner_description"
+msgstr ""
+"You can contact MonuManiak by sending us a message using the form available "
+"on the right of this page. <br/> Instalation of a banner can be done by "
+"copying the image displayed below and then integrating it into your site, or "
+"by copy / paste of displayed below HTML code."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:20
+msgid "vbo_banner_banniere"
+msgstr "Our banner :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:24
+msgid "vbo_banner_bannierehtml"
+msgstr "HTML code for our banner :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:29
+msgid "vbo_banner_logo"
+msgstr "Our logo :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.banner.php:33
+msgid "vbo_banner_logohtml"
+msgstr "HTML code for our logo :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:30
+msgid "vbo_beta_titre"
+msgstr "Private beta test"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:34
+msgid "vbo_beta_restant"
+msgstr "Time remaining :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:61
+msgid "vbo_beta_saisir"
+msgstr "Enter your email to beta test"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:62
+msgid "vbo_beta_soumettre"
+msgstr "Submit"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:65
+msgid "vbo_beta_redirection"
+msgstr ""
+"Your email is part of the beta test :<br/>You will be redirected to the site "
+"within a few seconds."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.beta.php:67
+msgid "vbo_beta_deroulement"
+msgstr ""
+"Your email has been added to beta test :<br/>You will receive by email a few "
+"minutes containing different information about the course of the beta."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.blog.php:18
+msgid "vbo_blog_titre"
+msgstr "&nbsp;&nbsp;Blog"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.blog.php:51
+msgid "vbo_blog_commentaire"
+msgstr " comment(s)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.blog.php:51
+msgid "vbo_blog_poste"
+msgstr "Posted in "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.blogdetails.php:22
+msgid "vbo_blogdetails_titre"
+msgstr "&nbsp;&nbsp;Blog"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.blogdetails.php:41
+msgid "vbo_blogdetails_retour"
+msgstr "Back to blog"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.cgu.php:14
+msgid "vbo_mentions_titre"
+msgstr "Legal Notice "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.cgu.php:16
+msgid "vbo_mentions_text"
+msgstr ""
+"This site is edited by the company FCPE :<br/><br/><strong>Type</"
+"strong> : SARL<br/><br/><strong>Headquarters</strong> :<br/>    24 Petite "
+"rue de la Viabert<br/>69100 Villeurbanne<br/>France<br/><br/><strong>Phone</"
+"strong> : +33 (0)6 74 11 47 24<br/><br/><strong>Registration number</"
+"strong> : R.C.S. LYON 477 723 704<br/><br/><strong>SIRET</strong> : 477 723 "
+"704 00029<br/><br/><strong>Social capital</strong> : 7 500 &euro;<br/><br/"
+"><strong>CEO</strong> : Nicolas ROUILLY<br/><br/>www.FCPE.com is "
+"hosted by Planet Hoster :<br/>150 Pierre Mercure - MONTREAL<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citycountry.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citydepartement.php:22
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:20
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementcountry.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.media.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:26
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.regioncountry.php:19
+msgid "inc_pays"
+msgstr "Country"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citydepartement.php:22
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.media.php:19
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:26
+msgid "inc_region"
+msgstr "Region"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citydepartement.php:22
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.media.php:19
+msgid "inc_departement"
+msgstr "Departement"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.media.php:19
+msgid "inc_ville"
+msgstr "City"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:57
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:31
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:31
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.home.php:46
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:36
+msgid "vbo_all_aucunmonument"
+msgstr "There is no historical monument."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.city.php:69
+msgid "cadre_lieu_monument"
+msgstr "Historical monument"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citycountry.php:26
+msgid "vbo_citycountry_principale"
+msgstr "Main cities of France :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.citydepartement.php:29
+msgid "vbo_citydepartement_liste"
+msgstr "List of cities :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:15
+msgid "vbo_condition_titre"
+msgstr "Terms of Use :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:16
+msgid "vbo_condition_description"
+msgstr ""
+"<strong>Dernière mise à jour :</strong> 06 Mai 2013<br/><br/>    Les "
+"présentes conditions d'utilisation sont proposées par la SARL FCPE, "
+"SARL au capital de 7.500 euros, sise 24 Petite rue de la Viabert 69100 "
+"VILLEURBANNE, inscrite au RCS de Valence sous le n°477 723 704.<br/><br/>    "
+"Elles sont indispensables avant toute souscription aux sites proposés par la "
+"SARL FCPE, et peuvent être modifiées à tout moment, au gré de la SARL "
+"FCPE. Toute modification des présentes conditions d'utilisation est "
+"immédiatement applicable aux nouvelles souscriptions.<br/><br/>    "
+"L'utilisation du site FCPE implique l'acceptation sans réserve des "
+"présentes conditions d'utilisation, et le respect des lois et règlements en "
+"vigueur sur le territoire Français.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:18
+msgid "vbo_condition_presentationtitre"
+msgstr "Presentation of the site"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:20
+msgid "vbo_condition_presentationdescription"
+msgstr ""
+"MonuManiak site is subject to the laws of the French Republic, edited by "
+"SARL FCPE, in which users can publish and manage their events. <br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:23
+msgid "vbo_condition_modalitetitre"
+msgstr "Registration Procedures"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:25
+msgid "vbo_condition_modalitedescription"
+msgstr ""
+"    Use of this site MonuManiak is a result of a registration.<br/"
+">Subscription to MonuManiak require acceptance by the user of the conditions "
+"of use, accessible from the homepage of the site.<br/>During registration "
+"the user entered an email address and password strictly personal and "
+"confidential, can not be shared with anyone. However, the user agrees not to "
+"choose a username contrary to public order, morality, laws and regulations, "
+"or infringing the rights of third parties or the rights, interests or image "
+"SARL FCPE.<br/>Any use of this username and password is the sole "
+"responsibility of the user.<br/>Registration is made for an indefinite "
+"period.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:28
+msgid "vbo_condition_paiementtitre"
+msgstr "Terms of payment"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:30
+msgid "vbo_condition_paiementdescription"
+msgstr "Payment can be made :<br/> * By paypal<br/> * By Credit Card<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:33
+msgid "vbo_condition_utilisationtitre"
+msgstr "Terms of Use"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:35
+msgid "vbo_condition_utilisationdescription"
+msgstr ""
+"L'internaute s'interdit de porter atteinte, par quelque moyen que ce soit, à "
+"l'ordre public, aux bonnes moeurs, aux lois, règlements et usages en "
+"vigueur, ainsi qu'aux droits des tiers.<br/>    A ce titre, il s'interdit "
+"notamment de :<br/>    . Diffamer un personnage (attaquer l'honneur ou la "
+"réputation) et ceci même dans le cadre d'une stratégie de prise de pouvoir,"
+"<br/>    . Calomnier (attaquer l'honneur ou la réputation par des "
+"accusations volontairement mensongères),<br/>    . Insulter (Parole ou "
+"action volontairement offensante),<br/>    . Injurier (Offenser par des "
+"paroles outrageantes. Injure : Terme de mépris qui ne renferme l'imputation "
+"d'aucun fait),<br/>    . Tenir des propos racistes ou incitant à la haine "
+"raciale,<br/>    . Menacer un internaute (Chercher à intimider, à faire "
+"peur),<br/>    . Porter atteinte aux droits de propriété intellectuelle "
+"(droits d'auteur, marques, etc.),<br/>    . Porter atteinte à la vie privé "
+"de tiers,<br/>    . Choisir un avatar contraire à ces principes, du fait de "
+"son apparence, de son nom, de ses qualités ou de son descriptif,<br/>    . "
+"Choisir un avatar ou tenir des propos présentant un caractère pornographique "
+"ou susceptible de heurter la sensibilité,<br/>    . Porter atteinte à "
+"l'image, aux droits ou aux intérêts de la SARL FCPE.<br/>    Ces "
+"interdictions sont valables dans le jeu et hors du jeu, et notamment lors de "
+"toute participation du joueur aux activités proposées sur le site Internet "
+"(forums, messageries édités par la SARL FCPE, notamment).<br/>    "
+"FCPE comporte un système de messagerie privé. Le détournement d'un "
+"message ou l'accès à la messagerie d'un tiers est illégal. Il est interdit "
+"de rendre public un message sans le consentement exprès de son expéditeur. "
+"Cela est valable aussi pour les forums de fratrie et d'école.<br/>    Le "
+"joueur s'interdit également d'usurper l'identité d'un autre joueur ou d'un "
+"tiers, à quelque fin que ce soit.<br/>    Les joueurs ne respectant pas les "
+"présentes conditions générales d'utilisation s'exposent à des sanctions. "
+"Celles-ci sont graduées et peuvent aller du simple avertissement à "
+"l'exclusion définitive du jeu selon la gravité de l'infraction. La SARL "
+"FCPE se réserve en outre le droit d'informer les autorités "
+"administratives ou judiciaires concernées de toute infraction constatée.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:38
+msgid "vbo_condition_obligationtitre"
+msgstr "Duty of MonuManiak"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:40
+msgid "vbo_condition_obligationdescription"
+msgstr ""
+"La SARL FCPE s'efforce d'assurer un accès au jeu 24h / 24h et 7 "
+"jours / 7 jours. Toutefois, sa responsabilité ne saurait être engagée si "
+"l'exécution du contrat ou de toute obligation lui incombant est empêchée, "
+"limitée ou dérangée du fait d'un cas de force majeure.<br/>    En tout état "
+"de cause, les réparations dues par la SARL FCPE en cas de défaillance "
+"du jeu qui résulterait d'une faute établie à son encontre correspondront au "
+"préjudice direct, personnel et certain lié à la défaillance en cause, à "
+"l'exclusion expresse de tout dommage indirect subi par le joueur. Le montant "
+"des dommages et intérêts qui pourraient être mis à la charge de la SARL "
+"FCPE si sa responsabilité était engagée sera limité au montant des "
+"sommes effectivement versées par le joueur à la SARL FCPE pour la "
+"période considérée.<br/>    La SARL FCPE n'effectue aucune sauvegarde "
+"spécifique des données des joueurs. Il appartient en conséquence au joueur "
+"de prendre toute mesure nécessaire à la sauvegarde de ses données en cas de "
+"perte ou de détérioration de celles-ci, quelle qu'en soit la cause, y "
+"compris celle non expressément visée par les présentes.<br/>    La SARL "
+"FCPE, par le biais de son site FCPE, est soucieuse du respect de "
+"la sécurité et de la vie privée des internautes, et plus particulièrement "
+"des enfants. C'est pourquoi les parents sont invités à surveiller "
+"l'utilisation faite par leurs enfants de l'accès à l'Internet et à garder "
+"présent à l'esprit :<br/>    # que le site FCPE est conçu pour toucher "
+"un public adulte,<br/>    # et qu'en leur qualité de tuteur légal il est de "
+"la responsabilité des parents de déterminer si ce site est ou non approprié "
+"pour leur(s) enfant(s) et de surveiller l'utilisation qu'ils en font.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:43
+msgid "vbo_condition_donneestitre"
+msgstr "Privacy Policy"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:45
+msgid "vbo_condition_donneesdescription"
+msgstr ""
+"Les Données d'Inscription et éventuellement d'autres informations à votre "
+"sujet sont traitées uniquement dans le cadre du site FCPE ainsi que "
+"dans le cadre de site futurs que pourrait proposer la SARL FCPE.<br/"
+">    Nous vous rappelons que, conformément à la Loi n° 78-17 du 6 janvier "
+"1978, dite Loi Informatique et Liberté, vous disposez d'un droit de "
+"consultation, de modification et de retrait de toutes données personnelles "
+"portées à la connaissance de la SARL FCPE lors de l'utilisation du "
+"Service. Ce droit peut être exercé à partir du formulaire de contact mis à "
+"votre disposition dans le site et/où sur la page d'accueil.<br/>    Lors de "
+"tout contact, merci de nous préciser vos nom et prénom, ainsi que votre date "
+"de naissance et votre pseudonyme si vous êtes utilisateur de FCPE.<br/"
+">    Vous êtes conscient que toutes les informations, données, textes qu'ils "
+"soient portés à la connaissance du public ou transmis de manière privée, "
+"sont sous la seule responsabilité de la personne ayant émis ce Contenu.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:48
+msgid "vbo_condition_proprietetitre"
+msgstr "Intellectual Property"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:50
+msgid "vbo_condition_proprietedescription"
+msgstr ""
+"L'ensemble des éléments (logiciels, personnages, marques, images, textes, "
+"commentaires, illustrations, etc...) composant le site MonuManiak sont "
+"protégés par des droits de propriété intellectuelle, et sont la propriété "
+"exclusive de la SARL FCPE.<br/>    Toute exploitation non autorisée de "
+"ces éléments constitue un acte de contrefaçon passible de poursuites.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:53
+msgid "vbo_condition_moderationtitre"
+msgstr "Moderation"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:55
+msgid "vbo_condition_moderationdescription"
+msgstr ""
+"La SARL FCPE assure une modération des propos échangés entre les "
+"internautes. A ce titre, elle se réserve la possibilité de limiter en tout "
+"ou partie la diffusion d'un message contraire aux dispositions des présentes."
+"<br/>    Il est interdit d'étaler publiquement, quel que soit le support, un "
+"différent avec un internautes sans l'autorisation de l'administrateur. Il "
+"est obligatoire de soumettre sa plainte de manière privée à l'administrateur "
+"connu de la partie ou, si cet administrateur ne vous est pas connu, de "
+"demander le contact avec celui-ci à partir du forum.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:58
+msgid "vbo_condition_resiliationtitre"
+msgstr "Termination"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:60
+msgid "vbo_condition_resiliationdescription"
+msgstr ""
+"L'internaute reconnaît à la SARL FCPE le droit de mettre fin à tout ou "
+"partie du droit d'accès correspondant à son compte et son mot de passe, "
+"voire de supprimer ses compte et mot de passe, ainsi que le droit de retirer "
+"ou de déplacer tout Contenu sur le Service et ce pour tout motif notamment "
+"en raison de l'absence d'utilisation, ou si la SARL FCPE a de bonnes "
+"raisons de croire que l'internaute a violé les présentes conditions "
+"générales d'utilisation, ou a agi en contradiction avec la lettre ou "
+"l'esprit des présentes.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:63
+msgid "vbo_condition_integralitetitre"
+msgstr "Entirety"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:65
+msgid "vbo_condition_integralitedescription"
+msgstr ""
+"These terms and conditions constitute the entire obligations of the SARL "
+"MonuManiak and users. <br/>No indication, no documents can generate "
+"obligations. No previous correspondence can generate obligations under these "
+"terms and conditions.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:68
+msgid "vbo_condition_disponibilitetitre"
+msgstr "Operation and availability of the site"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:70
+msgid "vbo_condition_disponibilitedescription"
+msgstr ""
+"MonuManiak strives , as far as possible, to keep the site accessible "
+"MonuManiak 7 days 7 and 24 hours on 24. However, access to the site may be "
+"temporarily suspended, due to technical maintenance, migration or updates "
+"due to failures or constraints functioning. <br/><br/>In addition, "
+"MonuManiak reserves the right to modify or to discontinue, temporarily or "
+"permanently, all or part of site access MonuManiak. If MonuManiak decides to "
+"terminate the services dedicated to Members MonuManiak the inform at least "
+"thirty (30) days before the date set for Interruption.<br/><br/>You are "
+"reminded that the transmission of data on the Internet only benefits from "
+"relative reliability. Networks where data flows have various features and "
+"capabilities and are likely to be saturated at certain hours of the day, "
+"which is likely to affect their download times as well as their "
+"accessibility. MonuManiak can not guarantee absence of interception of data."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:73
+msgid "vbo_condition_objettitre"
+msgstr "Object"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:75
+msgid "vbo_condition_objetdescription"
+msgstr ""
+"These conditions apply to any natural or legal person user of the platform."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:78
+msgid "vbo_condition_modificationtitre"
+msgstr "Modification of these terms of use"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:80
+msgid "vbo_condition_modificationdescription"
+msgstr ""
+"La Société se réserve le droit de modifier sans préavis les présentes "
+"conditions générales d'utilisation afin de sadapter à lenvironnement "
+"technologique et commercial et afin de se conformer à la réglementation en "
+"vigueur. Tout Utilisateur sera notifié par quelque biais que ce soit et "
+"devra s'y soumettre sous peine de se voir interdit l'accès à la Plateforme."
+"<br/><br/>    Les Visiteurs sont invités à prendre connaissance des "
+"Conditions Générales dUtilisation à chaque nouvelle visite du Site."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:81
+msgid "vbo_condition_loititre"
+msgstr "Applicable law and disputes"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.conditions.php:82
+msgid "vbo_condition_loidescription"
+msgstr ""
+"These terms and conditions are subject to French law. <br/>In case a dispute "
+"arises between the parties due to the execution or interpretation of this "
+"Agreement, the parties agree that, prior to any action in Justice, any claim "
+"will be a formal notice by registered letter with advice of receipt.<br/>Any "
+"party may then initiate any appropriate procedure, express jurisdiction "
+"being assigned to the courts of the City of Lyon.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:25
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactenvoyer.php:14
+msgid "vbo_contact_titre"
+msgstr "Contacts :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:28
+msgid "vbo_contactafficher_description"
+msgstr ""
+"You can contact MonuManiak by sending us a message using the form available "
+"on the right of this page."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:31
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:32
+msgid "vbo_activiteajouter_obligatoire"
+msgstr "(*) Fields marked with an asterisk are required."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:34
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:35
+msgid "vbo_suggestionafficher_auteur"
+msgstr "Author* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:37
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:38
+msgid "vbo_suggestionafficher_adresse"
+msgstr "Email address *:"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:40
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:41
+msgid "vbo_suggestionafficher_note"
+msgstr "Descriptions* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactafficher.php:49
+msgid "vbo_contact_envoyer"
+msgstr "Send message"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.contactenvoyer.php:17
+msgid "vbo_contact_description"
+msgstr ""
+"Thank you, your message has been sent. We thank you for your message, it "
+"will be studied in the next few hours by our team."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:42
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:42
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.home.php:57
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:47
+msgid "vbo_all_monuments"
+msgstr "Historic monuments"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:50
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:50
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.home.php:65
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:55
+msgid "vbo_all_aucuneremarquable"
+msgstr "There are no remarkable city."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.country.php:61
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:61
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.home.php:76
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.region.php:66
+msgid "vbo_all_remarquable"
+msgstr "Remarkable city"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departement.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:19
+msgid "inc_continent"
+msgstr "Continent"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementcountry.php:25
+msgid "vbo_departementcountry_titre"
+msgstr "Departements of "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementcountry.php:42
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.regioncountry.php:43
+msgid "vbo_regioncountry_lettre"
+msgstr "Letter : "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:25
+msgid "vbo_departementregion_titre"
+msgstr "List of departements"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.departementregion.php:42
+msgid "vbo_departementcountry_lettre"
+msgstr "Letter : "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.help.php:12
+msgid "vbo_aide_titre"
+msgstr "Help :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.maintenance.php:12
+msgid "vbo_maintenance_titre"
+msgstr "Site under maintenance"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.maintenance.php:13
+msgid "vbo_maintenance_description"
+msgstr "Thank you for your understanding."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.regioncountry.php:26
+msgid "vbo_regioncountry_regionfrance"
+msgstr "Regions of France"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportenvoyer.php:16
+msgid "vbo_reportenvoyer_titre"
+msgstr "Report an error :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportenvoyer.php:25
+msgid "vbo_reportenvoyer_description"
+msgstr ""
+"Your error report has been saved. We thank you for your comments, they will "
+"be discussed in the next few hours by our team."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportenvoyer.php:28
+msgid "inc_retour"
+msgstr "Back"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportmedia.php:22
+msgid "vbo_reportmedia_titre"
+msgstr "Report an error :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportmedia.php:25
+msgid "vbo_reportmedia_description"
+msgstr "Report an error about this content:"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportmedia.php:31
+msgid "vbo_reportmedia_type"
+msgstr "Error type :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportmedia.php:41
+msgid "vbo_reportmedia_note"
+msgstr "Descriptions :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.reportmedia.php:52
+msgid "vbo_reportmedia_envoyer"
+msgstr "Send your report"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:52
+msgid "vbo_search_lieutitre"
+msgstr "Place : search results"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:54
+msgid "vbo_search_communetitre"
+msgstr "City : search results"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:65
+msgid "vbo_search_pasterme"
+msgstr "No term"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:67
+msgid "vbo_search_terme"
+msgstr "Term :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:80
+msgid "vbo_monuments_departement"
+msgstr "Departement : "
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:87
+msgid "vbo_search_region"
+msgstr "Region :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:99
+msgid "vbo_search_identique"
+msgstr "Identical :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:106
+msgid "vbo_search_proximite"
+msgstr "Proximity :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:121
+msgid "vbo_search_listecomplete"
+msgstr "Complete list"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:131
+msgid "vbo_search_popularite"
+msgstr "Popularity"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:132
+msgid "vbo_search_commentaire"
+msgstr "Comment"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:133
+msgid "vbo_search_affichage"
+msgstr "Display"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:134
+msgid "vbo_search_nom"
+msgstr "Name"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:135
+msgid "vbo_search_interet"
+msgstr "Interest"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:139
+msgid "vbo_search_croissant"
+msgstr "Increasing"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:140
+msgid "vbo_search_decroissant"
+msgstr "Descending"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:172
+msgid "vbo_all_aucunlieu"
+msgstr "There is no place."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:173
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:212
+msgid "vbo_all_lieu"
+msgstr "Places"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.search.php:220
+msgid "vbo_search_aucun"
+msgstr "No results, please refine your search."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:26
+msgid "vbo_suggestionafficher_titre"
+msgstr "Suggestions"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:29
+msgid "vbo_suggestionafficher_description"
+msgstr ""
+"You can send a suggestion to MonuManiak by sending us a message using the "
+"form available on the right of this page."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionafficher.php:46
+msgid "vbo_suggestionafficher_envoyer"
+msgstr "Send suggestion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionenvoyer.php:14
+msgid "vbo_suggestionenvoyer_titre"
+msgstr "Suggestions :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\monumaniak\views\pages\./unit/view.bo.suggestionenvoyer.php:17
+msgid "vbo_suggestionenvoyer_description"
+msgstr ""
+"Your suggestion has been sent. We thank you for your comments, they will be "
+"discussed in the next few hours by our team."

@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------
+TRIPFORYOU
+---------------------------------------------------------------------------------------
+Nous avons bien reçu votre requête nous demandant de vous aider à retrouver votre
+mot de passe TripForYou. Vous trouverez ci-dessous les informations que nous possédons
+à ce sujet. Si vous n'avez pas soumis cette requête, veuillez ignorer cet e-mail.
+
+L'adresse e-mail que vous avez enregistrée lors de votre inscription est : {{email}}
+
+Si vous avez oublié votre mot de passe, vous pouvez le regénérer à partir de cette page :
+http://www.tripforyou.com/regeneration/{{guid}}.
+
+Merci d'utiliser TripForYou !
+---------------------------------------------------------------------------------------
+(c) TripForYou 2014

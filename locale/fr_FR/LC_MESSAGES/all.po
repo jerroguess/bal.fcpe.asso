@@ -1,0 +1,1971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adhésion FCPE\n"
+"POT-Creation-Date: 2015-02-16 21:14+0100\n"
+"PO-Revision-Date: 2015-02-16 21:14+0100\n"
+"Last-Translator: rouilly nicolas <nrouilly@yahoo.fr>\n"
+"Language-Team: team <nrouilly@yahoo.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-KeywordsList: gettext;_\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\adhesion\\views\\pages\\.\n"
+"X-Poedit-SearchPath-1: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\adhesion\\views\\cadres\\.\n"
+"X-Poedit-SearchPath-2: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\adhesion\\views\\erreurs\\.\n"
+"X-Poedit-SearchPath-3: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\adhesion\\views\\masters\\.\n"
+"X-Poedit-SearchPath-4: C:\\Users\\Nicolas\\Documents\\NetBeansProjects"
+"\\sources\\adhesion\\views\\emails\\.\n"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.401.php:14
+msgid "cadre_erreur_401_titre"
+msgstr "Session requise :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.401.php:16
+msgid "cadre_erreur_401_titre_description"
+msgstr "Pour accéder à cette page vous devez pour cela être connecté."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.401.php:18
+msgid "cadre_erreur_connexion"
+msgstr "Connexion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.404.php:14
+msgid "cadre_erreur_404_titre"
+msgstr "Erreur 404 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.404.php:16
+msgid "cadre_erreur_404_description"
+msgstr "Page non disponible."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.404.php:18
+msgid "cadre_erreur_404_lien"
+msgstr "Revenir &agrave; l'accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.419.php:14
+msgid "cadre_erreur_419_titre"
+msgstr "Déconnexion requise :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.419.php:16
+msgid "cadre_erreur_419_description"
+msgstr ""
+"Un utilisateur est déjà connecté avec un compte FCPE. Si vous souhaitez "
+"accéder à cette page vous devez pour cela vous déconnecter."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.419.php:18
+msgid "cadre_erreur_401_lien"
+msgstr "Déconnexion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.427.php:14
+msgid "cadre_erreur_427_titre"
+msgstr "Pays non support&eacute; :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.427.php:16
+msgid "cadre_erreur_427_description"
+msgstr ""
+"Votre pays n'est pas encore support&eacute;, mais notre &eacute;quipe y "
+"travaille. Vous serez redirig&eacute; vers la version fran&ccedil;aise."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.427.php:18
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:163
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:164
+msgid "inc_accueil"
+msgstr "Accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.500.php:14
+msgid "cadre_erreur_500_titre"
+msgstr "Erreur 500 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.500.php:16
+msgid "cadre_erreur_500_description"
+msgstr "Merci de renouveler votre demande."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.500.php:18
+msgid "cadre_erreur_500_lien"
+msgstr "Revenir &agrave; l'accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.503.php:14
+msgid "cadre_erreur_503_titre"
+msgstr "Erreur 503 :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.503.php:16
+msgid "cadre_erreur_503_description"
+msgstr "Erreur interne, merci de renouveler votre demande."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.503.php:18
+msgid "cadre_erreur_503_lien"
+msgstr "Revenir &agrave; l'accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.connexionerreur.php:13
+msgid "cadre_erreur_connexionerreur_titre"
+msgstr "Erreur de connexion :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.connexionerreur.php:15
+msgid "cadre_erreur_connexionerreur_description"
+msgstr ""
+"L'identifiant ou bien le mot de passe que vous avez entr&eacute; est inconnu "
+"ou a &eacute;t&eacute; saisie de mani&egrave;re incorrect. <br/><br/"
+">Attention pour vous connecter sur le site d'adhésion de la FCPE il vous "
+"faut obligatoirement poss&eacute;der un compte. Pour cr&eacute;er un compte "
+"r&eacute;f&eacute;rez-vous &agrave; l'aide du site ou bien ( <a href="
+"\"enregistrer\" class=\"main_fontCL8BL\"> cliquez ici</a> )."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreuremail.php:14
+msgid "cadre_erreur_enregistrererreuremail_titre"
+msgstr "Attention cette adresse email n'est pas valide :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreuremail.php:16
+msgid "cadre_erreur_enregistrererreuremail_description"
+msgstr "Veuillez spécifier une adresse email correct."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreuremailunique.php:14
+msgid "cadre_erreur_enregistrererreuremailunique_titre"
+msgstr "Attention cet email est déjà utilisé par un autre compte :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreuremailunique.php:16
+msgid "cadre_erreur_enregistrererreuremailunique_description"
+msgstr "Veuillez spécifier une autre adresse email."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreurimage.php:14
+msgid "cadre_erreur_enregistrererreurimage_titre"
+msgstr "Attention vous avez mal recopiez l'image de sécurité :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreurimage.php:16
+msgid "cadre_erreur_enregistrererreurimage_description"
+msgstr ""
+"Pour pouvoir valider votre inscription, vous devez pour cela recopiez "
+"correctement votre image de sécurité."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreurpassword.php:14
+msgid "cadre_erreur_enregistrererreurpassword_titre"
+msgstr ""
+"Attention vous avez fait une erreur dans la saisie de votre mot de passe :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.enregistrererreurpassword.php:16
+msgid "cadre_erreur_enregistrererreurpassword_description"
+msgstr ""
+"Vous devez spécifier deux fois le même mot de passe afin de valider votre "
+"inscription."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurenregistrercgu.php:13
+msgid "cadre_erreur_erreurenregistrercgu_titre"
+msgstr "Condition générales d'utilisations :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurenregistrercgu.php:15
+msgid "cadre_erreur_erreurenregistrercgu_description"
+msgstr ""
+"Veuillez accepter les conditions générales d'utilisations pour valider votre "
+"inscription."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurregenerationguidinconnu.php:14
+msgid "cadre_erreur_titre"
+msgstr "Erreur :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurregenerationguidinconnu.php:16
+msgid "cadre_erreur_erreurregenerationguidinconnu_description"
+msgstr ""
+"Pour effectuer la modification de votre mot de passe, vous devez cliquez sur "
+"le lien qui vous a été fournit par email."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurregenerationpassword.php:14
+msgid "cadre_erreur_erreurregenerationpassword_titre"
+msgstr ""
+"Attention vous avez fait une erreur dans la saisie de votre mot de passe :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurregenerationpassword.php:16
+msgid "cadre_erreur_erreurregenerationpassword_description"
+msgstr ""
+"Vous devez spécifier deux fois le même mot de passe afin de valider votre "
+"modification de mot de passe."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurremplissage.php:14
+msgid "cadre_erreur_erreurremplissage_titre"
+msgstr "Attention vous n'avez pas rempli l'ensemble des champs obligatoires :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.erreurremplissage.php:16
+msgid "cadre_erreur_erreurremplissage_description"
+msgstr ""
+"Vous devez saisir l'ensemble des champs obligatoires. Ces champs sont suivis "
+"d'une étoile (*)."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.memoiremdpbanissement.php:14
+msgid "cadre_erreur_memoiremdpbanissement_titre"
+msgstr "Limite temporaire :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.memoiremdpbanissement.php:16
+msgid "cadre_erreur_memoiremdpbanissement_description"
+msgstr ""
+"Ce service ne permet qu'une utilisation unique toute les 10 minutes afin de "
+"limiter les abus. Merci de bien vouloir patienter avant de ré-effectuer "
+"votre demande."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.memoiremdpemailinconnu.php:14
+msgid "cadre_erreur_memoiremdpmailinconnu_titre"
+msgstr "Adresse email inconnue :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.memoiremdpemailinconnu.php:16
+msgid "cadre_erreur_memoiremdpmailinconnu_description"
+msgstr ""
+"Cette adresse email ne correspond à aucune adresse email référencée par le "
+"site d'adhésion de la FCPE."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.reportbanissement.php:14
+msgid "cadre_erreur_reportbanissement_titre"
+msgstr "Limite temporaire :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.reportbanissement.php:16
+msgid "cadre_erreur_reportbanissement_description"
+msgstr ""
+"Ce service ne permet qu'une utilisation unique toute les minutes afin de "
+"limiter les abus. Merci de bien vouloir patienter avant de reposter un "
+"nouveau rapport d'erreur."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\erreurs\./unit/view.bo.reportbanissement.php:18
+msgid "cadre_erreur_erreurcity_lien"
+msgstr "Revenir &agrave; l'accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:34
+msgid "master_titre"
+msgstr "FCPE adhésion en ligne"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:45
+msgid "master_description"
+msgstr ""
+"La plateforme touristique qui vous permet de partager vos envies d'évasion."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:46
+msgid "master_motclef"
+msgstr ""
+"tourisme, événements, boutique, lieu, monument, voyage, promenade, "
+"organiser, vacances, visite"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:59
+msgid "master_droits"
+msgstr "Tous droits réservés"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:127
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:134
+msgid "master_connexion"
+msgstr "Connexion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:131
+msgid "master_identifiant"
+msgstr "Identifiant"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:133
+msgid "master_motdepasse"
+msgstr "Mot de passe"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:141
+msgid "master_enrgistrer"
+msgstr "Enregistrer"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:143
+msgid "master_oublimdp"
+msgstr "Mot de passe oublié ? Cliquez-ici."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:159
+msgid "master_deconnexion"
+msgstr "Deconnexion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:228
+msgid "master_tousdroits"
+msgstr "Tous droits réservés."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:229
+msgid "master_mentions"
+msgstr "Mentions légales"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:231
+msgid "master_conditions"
+msgstr "Conditions d'utilisation"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:233
+msgid "master_suggestion"
+msgstr "Suggestion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:235
+msgid "master_contact"
+msgstr "Contact"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\masters\./unit/class.bo.master.main.php:237
+msgid "master_apropos"
+msgstr "À propos"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:16
+msgid "inc_static_non"
+msgstr "Non"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:18
+msgid "inc_static_oui"
+msgstr "Oui"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:81
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:102
+msgid "inc_static_pasphotodisponible"
+msgstr "Pas de photos disponibles"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:92
+msgid "inc_image"
+msgstr "Image"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:99
+msgid "inc_static_panoramio"
+msgstr ""
+"Photos fournies par <a href=\"http://www.panoramio.com/\">Panoramio</a>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:229
+msgid "inc_static_tornade"
+msgstr "Tornade"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:230
+msgid "inc_static_tempetetropicale"
+msgstr "Tempéte tropicale"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:231
+msgid "inc_static_ouragan"
+msgstr "Ouragan"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:232
+msgid "inc_static_oragesviolents"
+msgstr "Orages violents"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:233
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:274
+msgid "inc_static_orages"
+msgstr "Orages"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:234
+msgid "inc_static_pluieneige"
+msgstr "Pluie et neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:235
+msgid "inc_static_pluiegresil"
+msgstr "Pluie et grésil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:236
+msgid "inc_static_neigegresil"
+msgstr "Neige mélées de grésil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:237
+msgid "inc_static_bruineverglassante"
+msgstr "Bruine verglaçante"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:238
+msgid "inc_static_bruine"
+msgstr "Bruine"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:239
+msgid "inc_static_pluieverglassante"
+msgstr "Pluie verglaçante"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:240
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:241
+msgid "inc_static_pluie"
+msgstr "Pluie"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:242
+msgid "inc_static_chuteneige"
+msgstr "Chutes de neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:243
+msgid "inc_static_legereneige"
+msgstr "Légère chute de neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:244
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:245
+msgid "inc_static_neige"
+msgstr "Neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:246
+msgid "inc_static_grele"
+msgstr "Gréle"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:247
+msgid "inc_static_gresil"
+msgstr "Grésil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:248
+msgid "inc_static_poussiere"
+msgstr "Poussiére"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:249
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:251
+msgid "inc_static_brumeux"
+msgstr "Brumeux"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:250
+msgid "inc_static_haze"
+msgstr "Haze"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:252
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:253
+msgid "inc_static_venteux"
+msgstr "Venteux"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:254
+msgid "inc_static_froid"
+msgstr "Froid"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:255
+msgid "inc_static_nuageux"
+msgstr "Nuageux"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:256
+msgid "inc_static_tresnuageuxnuit"
+msgstr "Trés nuageux (nuit)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:257
+msgid "inc_static_tresnuageuxjour"
+msgstr "Trés nuageux (jour)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:258
+msgid "inc_static_partiellementensoleille"
+msgstr "Partiellement ensoleillé (nuit)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:259
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:273
+msgid "inc_static_partiellementnuageux"
+msgstr "Partiellement nuageux (jour)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:260
+msgid "inc_static_clairenuit"
+msgstr "Claire (de nuit)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:261
+msgid "inc_static_ensolleille"
+msgstr "Ensoleillé"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:262
+msgid "inc_static_beautempsnuit"
+msgstr "Beau temps (nuit)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:263
+msgid "inc_static_beautempsjour"
+msgstr "Beau temps (jour)"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:264
+msgid "inc_static_pluiemele"
+msgstr "Pluie mélée de gréle"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:265
+msgid "inc_static_chaud"
+msgstr "Chaud"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:266
+msgid "inc_static_oragesisole"
+msgstr "Orages isolés"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:267
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:268
+msgid "inc_static_oragesintermittents"
+msgstr "Orages intermittents"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:269
+msgid "inc_static_averseseparses"
+msgstr "Averses éparses"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:270
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:272
+msgid "inc_static_forteschuteneige"
+msgstr "Fortes chutes de neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:271
+msgid "inc_static_aversesnaigeeparses"
+msgstr "Averses de neige éparses"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:275
+msgid "inc_static_chutesneige"
+msgstr "Chutes de neige"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:276
+msgid "inc_static_oragesisoles"
+msgstr "Orages isolés"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:277
+msgid "inc_static_nondisponible"
+msgstr "Non disponible"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_dimanche"
+msgstr "Dimanche"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_lundi"
+msgstr "Lundi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_mardi"
+msgstr "Mardi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_mercredi"
+msgstr "Mercredi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_jeudi"
+msgstr "Jeudi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_vendredi"
+msgstr "Vendredi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:330
+msgid "inc_static_samedi"
+msgstr "Samedi"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_janvier"
+msgstr "Janvier"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_fevrier"
+msgstr "Février"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_mars"
+msgstr "Mars"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_avril"
+msgstr "Avril"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_mai"
+msgstr "Mai"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_juin"
+msgstr "Juin"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_juillet"
+msgstr "Juillet"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_aout"
+msgstr "Août"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_septembre"
+msgstr "Septembre"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_octobre"
+msgstr "Octobre"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_novembre"
+msgstr "Novembre"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:331
+msgid "inc_static_decembre"
+msgstr "Décembre"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:344
+msgid "inc_static_fourniyahoo"
+msgstr "Données fournies par <a href=\"http://www.yahoo.fr/\">Yahoo</a>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:350
+msgid "inc_static_pasmeteo"
+msgstr "Pas de météo disponible."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:371
+msgid "inc_dyna_imagesecuriteobligatoire"
+msgstr "Image de sécurité* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:373
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./core/inc_form_controls_statiques.php:381
+msgid "inc_dyna_imagesecurite"
+msgstr "Image de sécurité"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.about.php:14
+msgid "vbo_info_apropos"
+msgstr "À propos"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.about.php:15
+msgid "vbo_info_aproposdescription"
+msgstr ""
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.addchildren.php:32
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:27
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:25
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:32
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.updatechildren.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.updateparent.php:55
+msgid "vbo_activiteajouter_obligatoire"
+msgstr "(*) Les champs suivis d'une étoile sont obligatoires."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.cgu.php:14
+msgid "vbo_mentions_titre"
+msgstr "Mentions légales"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:15
+msgid "vbo_condition_titre"
+msgstr "Conditions d'utilisation :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:16
+msgid "vbo_condition_description"
+msgstr ""
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:18
+msgid "vbo_condition_presentationtitre"
+msgstr "Présentation du site"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:20
+msgid "vbo_condition_presentationdescription"
+msgstr ""
+"Le site d'adhésion de la FCPE est un site soumis aux lois de la république "
+"Française, édité par la FCPE, dans lequel les internautes peuvent publier et "
+"gérer leurs évènements.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:23
+msgid "vbo_condition_modalitetitre"
+msgstr "Modalités d'inscription"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:25
+msgid "vbo_condition_modalitedescription"
+msgstr ""
+"    L'utilisation du site de la FCPE s'effectue par le biais d'une "
+"inscription.<br/>L'inscription au site de la FCPE nécessite l'acceptation "
+"par l'internaute des conditions d'utilisation du site, accessibles à partir "
+"de la page de garde du site.<br/>    Lors de son inscription, l'internaute "
+"inscrit une adresse email et un mot de passe strictement personnels et "
+"confidentiels, ne pouvant être communiqués à quiconque. L'internaute "
+"s'interdit toutefois de choisir un identifiant contraire à l'ordre public, "
+"aux bonnes moeurs, aux lois et règlements en vigueur, ou portant atteinte "
+"aux droits de tiers ou aux droits, intérêts ou image de la FCPE.<br/>    "
+"Toute utilisation de cet identifiant et mot de passe se fait sous la "
+"responsabilité exclusive de l'internaute.<br/>    L'inscription est "
+"effectuée pour une durée illimitée.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:28
+msgid "vbo_condition_paiementtitre"
+msgstr "Modalités de paiement"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:30
+msgid "vbo_condition_paiementdescription"
+msgstr ""
+"Le paiement peut s'effectuer:<br/>    * Par paypal<br/>    * Par Carte "
+"Bancaire<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:33
+msgid "vbo_condition_utilisationtitre"
+msgstr "Modalités d'utilisation"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:35
+msgid "vbo_condition_utilisationdescription"
+msgstr ""
+"L'internaute s'interdit de porter atteinte, par quelque moyen que ce soit, à "
+"l'ordre public, aux bonnes moeurs, aux lois, règlements et usages en "
+"vigueur, ainsi qu'aux droits des tiers.<br/>    A ce titre, il s'interdit "
+"notamment de :<br/>    . Diffamer un personnage (attaquer l'honneur ou la "
+"réputation) et ceci même dans le cadre d'une stratégie de prise de pouvoir,"
+"<br/>    . Calomnier (attaquer l'honneur ou la réputation par des "
+"accusations volontairement mensongères),<br/>    . Insulter (Parole ou "
+"action volontairement offensante),<br/>    . Injurier (Offenser par des "
+"paroles outrageantes. Injure : Terme de mépris qui ne renferme l'imputation "
+"d'aucun fait),<br/>    . Tenir des propos racistes ou incitant à la haine "
+"raciale,<br/>    . Menacer un internaute (Chercher à intimider, à faire "
+"peur),<br/>    . Porter atteinte aux droits de propriété intellectuelle "
+"(droits d'auteur, marques, etc.),<br/>    . Porter atteinte à la vie privé "
+"de tiers,<br/>    . Choisir un avatar contraire à ces principes, du fait de "
+"son apparence, de son nom, de ses qualités ou de son descriptif,<br/>    . "
+"Choisir un avatar ou tenir des propos présentant un caractère pornographique "
+"ou susceptible de heurter la sensibilité,<br/>    . Porter atteinte à "
+"l'image, aux droits ou aux intérêts de la FCPE.<br/>    Ces interdictions "
+"sont valables dans le jeu et hors du jeu, et notamment lors de toute "
+"participation du joueur aux activités proposées sur le site Internet "
+"(forums, messageries édités par la FCPE, notamment).<br/>    La FCPE "
+"comporte un système de messagerie privé. Le détournement d'un message ou "
+"l'accès à la messagerie d'un tiers est illégal. Il est interdit de rendre "
+"public un message sans le consentement exprès de son expéditeur. Cela est "
+"valable aussi pour les forums de fratrie et d'école.<br/>    Le joueur "
+"s'interdit également d'usurper l'identité d'un autre joueur ou d'un tiers, à "
+"quelque fin que ce soit.<br/>    Les joueurs ne respectant pas les présentes "
+"conditions générales d'utilisation s'exposent à des sanctions. Celles-ci "
+"sont graduées et peuvent aller du simple avertissement à l'exclusion "
+"définitive du jeu selon la gravité de l'infraction. La FCPE se réserve en "
+"outre le droit d'informer les autorités administratives ou judiciaires "
+"concernées de toute infraction constatée.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:38
+msgid "vbo_condition_obligationtitre"
+msgstr "Obligation de la FCPE"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:40
+msgid "vbo_condition_obligationdescription"
+msgstr ""
+"La FCPE s'efforce d'assurer un accès au jeu 24h / 24h et 7 jours / 7 jours. "
+"Toutefois, sa responsabilité ne saurait être engagée si l'exécution du "
+"contrat ou de toute obligation lui incombant est empêchée, limitée ou "
+"dérangée du fait d'un cas de force majeure.<br/>    En tout état de cause, "
+"les réparations dues par la FCPE en cas de défaillance du jeu qui "
+"résulterait d'une faute établie à son encontre correspondront au préjudice "
+"direct, personnel et certain lié à la défaillance en cause, à l'exclusion "
+"expresse de tout dommage indirect subi par le joueur. Le montant des "
+"dommages et intérêts qui pourraient être mis à la charge de la FCPE si sa "
+"responsabilité était engagée sera limité au montant des sommes effectivement "
+"versées par le joueur à la FCPE pour la période considérée.<br/>    La FCPE "
+"n'effectue aucune sauvegarde spécifique des données des joueurs. Il "
+"appartient en conséquence au joueur de prendre toute mesure nécessaire à la "
+"sauvegarde de ses données en cas de perte ou de détérioration de celles-ci, "
+"quelle qu'en soit la cause, y compris celle non expressément visée par les "
+"présentes.<br/>    La FCPE, par le biais de son site d'adhésion, est "
+"soucieuse du respect de la sécurité et de la vie privée des internautes, et "
+"plus particulièrement des enfants. C'est pourquoi les parents sont invités à "
+"surveiller l'utilisation faite par leurs enfants de l'accès à l'Internet et "
+"à garder présent à l'esprit :<br/>    # que le site de la FCPE est conçu "
+"pour toucher un public adulte,<br/>    # et qu'en leur qualité de tuteur "
+"légal il est de la responsabilité des parents de déterminer si ce site est "
+"ou non approprié pour leur(s) enfant(s) et de surveiller l'utilisation "
+"qu'ils en font.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:43
+msgid "vbo_condition_donneestitre"
+msgstr "Données personnelles"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:45
+msgid "vbo_condition_donneesdescription"
+msgstr ""
+"Les Données d'Inscription et éventuellement d'autres informations à votre "
+"sujet sont traitées uniquement dans le cadre du site de la FCPE ainsi que "
+"dans le cadre de site futurs que pourrait proposer la FCPE.<br/>    Nous "
+"vous rappelons que, conformément à la Loi n° 78-17 du 6 janvier 1978, dite "
+"Loi Informatique et Liberté, vous disposez d'un droit de consultation, de "
+"modification et de retrait de toutes données personnelles portées à la "
+"connaissance de la FCPE lors de l'utilisation du Service. Ce droit peut être "
+"exercé à partir du formulaire de contact mis à votre disposition dans le "
+"site et/où sur la page d'accueil.<br/>    Lors de tout contact, merci de "
+"nous préciser vos nom et prénom, ainsi que votre date de naissance et votre "
+"pseudonyme si vous êtes utilisateur de la FCPE.<br/>    Vous êtes conscient "
+"que toutes les informations, données, textes qu'ils soient portés à la "
+"connaissance du public ou transmis de manière privée, sont sous la seule "
+"responsabilité de la personne ayant émis ce Contenu.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:48
+msgid "vbo_condition_proprietetitre"
+msgstr "Propriété intellectuelle"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:50
+msgid "vbo_condition_proprietedescription"
+msgstr ""
+"L'ensemble des éléments (logiciels, personnages, marques, images, textes, "
+"commentaires, illustrations, etc...) composant le site de la FCPE sont "
+"protégés par des droits de propriété intellectuelle, et sont la propriété "
+"exclusive de la FCPE.<br/>    Toute exploitation non autorisée de ces "
+"éléments constitue un acte de contrefaçon passible de poursuites.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:53
+msgid "vbo_condition_moderationtitre"
+msgstr "Modération"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:55
+msgid "vbo_condition_moderationdescription"
+msgstr ""
+"La FCPE assure une modération des propos échangés entre les internautes. A "
+"ce titre, elle se réserve la possibilité de limiter en tout ou partie la "
+"diffusion d'un message contraire aux dispositions des présentes.<br/>    Il "
+"est interdit d'étaler publiquement, quel que soit le support, un différent "
+"avec un internautes sans l'autorisation de l'administrateur. Il est "
+"obligatoire de soumettre sa plainte de manière privée à l'administrateur "
+"connu de la partie ou, si cet administrateur ne vous est pas connu, de "
+"demander le contact avec celui-ci à partir du forum.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:58
+msgid "vbo_condition_resiliationtitre"
+msgstr "Résiliation"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:60
+msgid "vbo_condition_resiliationdescription"
+msgstr ""
+"L'internaute reconnaît à la FCPE le droit de mettre fin à tout ou partie du "
+"droit d'accès correspondant à son compte et son mot de passe, voire de "
+"supprimer ses compte et mot de passe, ainsi que le droit de retirer ou de "
+"déplacer tout Contenu sur le Service et ce pour tout motif notamment en "
+"raison de l'absence d'utilisation, ou si la FCPE a de bonnes raisons de "
+"croire que l'internaute a violé les présentes conditions générales "
+"d'utilisation, ou a agi en contradiction avec la lettre ou l'esprit des "
+"présentes.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:63
+msgid "vbo_condition_integralitetitre"
+msgstr "Intégralité"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:65
+msgid "vbo_condition_integralitedescription"
+msgstr ""
+"Les présentes conditions générales d'utilisation expriment l'intégralité des "
+"obligations de la FCPE et des internautes.<br/>    Aucune indication, aucun "
+"document, ne peuvent engendrer des obligations au titre des présentes. "
+"Aucune correspondance antérieure ne peut engendrer des obligations au titre "
+"des présentes conditions générales d'utilisation.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:68
+msgid "vbo_condition_disponibilitetitre"
+msgstr "Fonctionnement et disponibilité du Site"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:70
+msgid "vbo_condition_disponibilitedescription"
+msgstr ""
+"La FCPE s'efforcera, dans la mesure du possible, de maintenir le site de la "
+"FCPE accessible 7 jours sur 7 et 24 heures sur 24. Néanmoins, l'accès au "
+"Site pourra être temporairement suspendu, en raison d’opérations techniques "
+"de maintenance, de migration ou de mises à jour, en raison de pannes ou de "
+"contraintes liées au fonctionnement d’internet.<br/><br/>    En outre, la "
+"FCPE se réserve le droit de modifier ou d’interrompre, de manière temporaire "
+"ou permanente, tout ou partie de l’accès au site de la FCPE. Si la FCPE "
+"décide de mettre fin aux services réservés aux Membres, la FCPE les en "
+"informera au minimum trente (30) jours avant la date prévue pour "
+"l’interruption.<br/><br/>    Il vous est rappelé que la transmission des "
+"données sur internet ne bénéficie que d'une fiabilité relative. Les réseaux "
+"sur lesquels circulent les données présentent des caractéristiques et "
+"capacités diverses et sont susceptibles d’être saturés à certaines heures de "
+"la journée, ce qui est de nature à affecter leur délais de téléchargement "
+"ainsi que leur accessibilité. La FCPE ne peut pas non plus garantir l’absence "
+"d’interception de données."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:73
+msgid "vbo_condition_objettitre"
+msgstr "Objet"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:75
+msgid "vbo_condition_objetdescription"
+msgstr ""
+"Les présentes conditions s'appliquent à toute personne physique ou morale "
+"utilisatrice de la plateforme."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:78
+msgid "vbo_condition_modificationtitre"
+msgstr "Modification des présentes conditions d'utilisation"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:80
+msgid "vbo_condition_modificationdescription"
+msgstr ""
+"La Société se réserve le droit de modifier sans préavis les présentes "
+"conditions générales d'utilisation afin de s’adapter à l’environnement "
+"technologique et commercial et afin de se conformer à la réglementation en "
+"vigueur. Tout Utilisateur sera notifié par quelque biais que ce soit et "
+"devra s'y soumettre sous peine de se voir interdit l'accès à la Plateforme."
+"<br/><br/>    Les Visiteurs sont invités à prendre connaissance des "
+"Conditions Générales d’Utilisation à chaque nouvelle visite du Site."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:81
+msgid "vbo_condition_loititre"
+msgstr "Loi applicable et différends"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.conditions.php:82
+msgid "vbo_condition_loidescription"
+msgstr ""
+"Les présentes conditions générales d'utilisation sont soumises au droit "
+"Français.<br/>    Pour le cas où un litige naîtrait entre les parties du "
+"fait de l'exécution ou de l'interprétation des présentes, les parties "
+"conviennent que, préalablement à toute action en Justice, toute réclamation "
+"fera l'objet d'une mise en demeure préalable par courrier recommandé avec "
+"demande d'avis de réception.<br/>    Toute partie pourra ensuite engager "
+"toute procédure utile, compétence expresse étant attribuée aux juridictions "
+"de la Ville de Lyon.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:19
+msgid "vbo_connexion_titre"
+msgstr "Connexion à votre compte :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:22
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:38
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:43
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:44
+msgid "vbo_enregistrerafficher_email"
+msgstr "Email* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:23
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:39
+msgid "vbo_connexionafficher_email"
+msgstr "Email :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:26
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:42
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:46
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:47
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:49
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:50
+msgid "vbo_changepasswordafficher_motpasse"
+msgstr "Mot de passe* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:27
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:43
+msgid "vbo_connexionafficher_mdp"
+msgstr "Mot de passe :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:55
+msgid "vbo_menu_sejours_lien"
+msgstr "Cliquez-ici"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:46
+msgid "vbo_connexionafficher_visiteur"
+msgstr "Visiteur"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:49
+msgid "vbo_connexionafficher_evenement"
+msgstr ""
+"Vous n'êtes pas encore enregistrés, alors il vous faut le faire imédiatement "
+"en cliquant sur <a href=\"enregistrer\">inscription</a>.<br/><br/>Sinon si "
+"vous poss&eacute;dez d&eacute;j&agrave; un compte connectez vous avec "
+"l'interface de connexion."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:52
+msgid "vbo_connexionafficher_conditions"
+msgstr ""
+"Pour consulter les conditions d'utilisations de ce site, vous pouvez cliquer "
+"sur le lien ci aprés : &nbsp;<br/><a href=\"condition\">Lire les conditions "
+"d'utilisations</a>."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionafficher.php:55
+msgid "inc_logo_inscription"
+msgstr "Inscription"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionenvoyer.php:19
+msgid "vbo_connexionenvoyer_titre"
+msgstr "Connexion &agrave; votre compte :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionenvoyer.php:22
+msgid "vbo_connexionenvoyer_connexioneffectue"
+msgstr ""
+" : Connexion effectuée.<br/><br/>Vous pouvez accéder directement à votre "
+"profil en <a href=\"profil\">cliquant ici</a>."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionenvoyer.php:28
+msgid "vbo_connexionenvoyer_condition"
+msgstr "Conditions d'utilisation :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.connexionenvoyer.php:29
+msgid "vbo_connexionenvoyer_description"
+msgstr ""
+"Pour consulter les conditions d'utilisations de ce site, vous pouvez cliquer "
+"sur le lien ci aprés : &nbsp;<a href=\"condition\">Lire les conditions "
+"d'utilisations</a>."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:21
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactenvoyer.php:14
+msgid "vbo_contact_titre"
+msgstr "Contacts :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:24
+msgid "vbo_contactafficher_description"
+msgstr ""
+"Vous pouvez prendre contact avec la FCPE en nous faisant parvenir un message "
+"à l'aide du formulaire présent à droite de cette page."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:30
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:35
+msgid "vbo_suggestionafficher_auteur"
+msgstr "Auteur* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:33
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:28
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:29
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:38
+msgid "vbo_suggestionafficher_adresse"
+msgstr "Adresse e-mail* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:36
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:41
+msgid "vbo_suggestionafficher_note"
+msgstr "Descriptions* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactafficher.php:45
+msgid "vbo_contact_envoyer"
+msgstr "Envoyer message"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.contactenvoyer.php:17
+msgid "vbo_contact_description"
+msgstr ""
+"Merci, votre message a bien été prise en compte. Nous vous remerçions pour "
+"votre message, celui-ci sera étudié dans les prochaines heures par notre "
+"équipe."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:20
+msgid "vbo_deconnexion_titre"
+msgstr "Déconnexion de votre compte :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:22
+msgid "vbo_deconnexion_deconnexioneffectue"
+msgstr " : Déconnexion effectuée."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:24
+msgid "vbo_deconnexion_description1"
+msgstr ""
+"Vous n'avez désormais plus accés à votre espace personnel, cette rubrique ne "
+"sera accessible que lors de votre prochaine connexion."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:27
+msgid "vbo_deconnexion_condition"
+msgstr "Conditions d'utilisation :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.deconnexion.php:29
+msgid "vbo_deconnexion_description2"
+msgstr ""
+"Pour consulter les conditions d'utilisations de ce site, vous pouvez cliquer "
+"sur le lien ci aprés : &nbsp;<a href='condition'>Lire les conditions "
+"d'utilisations</a>.<br/><br/>La FCPE peut supprimer sans préavis tout compte "
+"ayant un nom d'utilisateur non approprié, ou dont l'utilisation serait "
+"contraire à la loi.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:30
+msgid "vbo_enregistrerafficher_titre"
+msgstr "Inscription"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:35
+msgid "vbo_enregistrerafficher_description"
+msgstr ""
+"Votre inscription commence ici ! Votre compte vous permet d'accéder aux "
+"différents services. Si vous possédez déjà un compte, vous pouvez <a href="
+"\"connexion\">cliquer sur ce lien</a>.<br/><br/>Remplissez ici les données "
+"qui vous serviront à vous identifier sur le site.<br/><br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:37
+msgid "vbo_enregistrerafficher_loi"
+msgstr ""
+"<strong>Loi sur les informations personnelles</strong><br/><br/><br/>En "
+"\"\"application de l'article 27 de la loi Informatique et Libertés du 6 "
+"janvier \"\"1978, vous disposez d'un droit d'accès et de rectification sur "
+"les informations vous concernant.<br/><br/>Pour exercer ces droits, il vous "
+"suffit de vous rendre sur ce site et de modifier vos informations "
+"personnelles accessibles dans \" Votre profil \".<br/><br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:39
+msgid "vbo_enregistrerafficher_condition"
+msgstr ""
+"<strong>Conditions d'utilisations</strong><br/><br/>Pour consulter les "
+"\"\"conditions d'utilisations du site d'adhésion de la FCPE, vous pouvez "
+"cliquer sur le lien \"\"ci-après : &nbsp;<a href='condition'>Lire les "
+"conditions d'utilisations</a>.<br/><br/>La FCPE peut supprimer sans préavis "
+"tout compte ayant un nom d'utilisateur non approprié, ou dont l'utilisation "
+"serait contraire à la loi.<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:53
+msgid "vbo_enregistrerafficher_imagesecurite"
+msgstr ""
+"Image de sécurité|Veuillez saisir le texte inscrit dans l'image présentée ci-"
+"contre."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:56
+msgid "vbo_enregistrerafficher_cgu"
+msgstr "J'accepte les conditions générales d'utilisation."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerafficher.php:63
+msgid "vbo_enregistrerafficher_valider"
+msgstr "Valider inscription"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.enregistrerenvoyer.php:13
+msgid "vbo_enregistrerenvoyer_titre"
+msgstr "Inscription réussie !"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.help.php:12
+msgid "vbo_aide_titre"
+msgstr "Aide :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.maintenance.php:12
+msgid "vbo_maintenance_titre"
+msgstr "Site en maintenance"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.maintenance.php:13
+msgid "vbo_maintenance_description"
+msgstr "Merci de votre compréhension."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:18
+msgid "vbo_memoiremdpafficher_titre"
+msgstr "Service de restitution"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:23
+msgid "vbo_suggestionafficher_oublier"
+msgstr ""
+"Vous avez oublié votre mot de passe ! , saisissez votre adresse e-mail ci-"
+"dessous afin de nous permettre de vous envoyez un message contenant vos "
+"paramètres de connexion."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpafficher.php:32
+msgid "vbo_memoiremdpafficher_envoyer"
+msgstr "Envoyer"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpenvoyer.php:15
+msgid "vbo_memoiremdpenvoyer_titre"
+msgstr "Service de restitution"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpenvoyer.php:19
+msgid "vbo_memoiremdpenvoyer_description"
+msgstr ""
+"Votre demande de restitution de mot de passe a bien été prise en compte. Un "
+"email contenant vos identifiants de connexion vous sera adressé dans "
+"quelques instants."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.memoiremdpenvoyer.php:22
+msgid "vbo_presse_lien"
+msgstr "Retour &agrave; l'accueil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilafficher.php:13
+msgid "vbo_profilafficher_titre"
+msgstr "Données de votre profil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilafficher.php:15
+msgid "vbo_activiteajouter_description"
+msgstr "Description :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilafficher.php:18
+msgid "vbo_profilafficher_nom"
+msgstr "Nom :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilafficher.php:20
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:42
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:43
+msgid "vbo_profilediter_prenom"
+msgstr "Prénom :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilafficher.php:23
+msgid "vbo_profilafficher_modifierprofil"
+msgstr "Modifier mon profil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:23
+msgid "vbo_profilediter_titre"
+msgstr "Modification du profil :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:32
+msgid "vbo_profilediter_identifiant"
+msgstr "Identifiants :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:35
+msgid "vbo_profilediter_modifierdonnees"
+msgstr "Modifiez ici les données permettant de vous identifier."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:38
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:39
+msgid "vbo_activiteajouter_nom"
+msgstr "Nom* :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilediter.php:49
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.updateparent.php:209
+msgid "vbo_activitemodifier_valider"
+msgstr "Valider modification"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilenvoyer.php:14
+msgid "vbo_profilenvoyer_titre"
+msgstr "Mon profil :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilenvoyer.php:16
+msgid "vbo_profilenvoyer_description"
+msgstr ""
+"Votre modification s'est déroulée avec succés.<br/>Vous pouvez revenir sur "
+"votre profil en cliquant sur le bouton ci-dessous :<br/>"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.profilenvoyer.php:19
+msgid "vbo_profilenvoyer_lien"
+msgstr "Mon profil"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:26
+msgid "vbo_suggestionafficher_titre"
+msgstr "Suggestions"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:29
+msgid "vbo_suggestionafficher_description"
+msgstr ""
+"Vous pouvez envoyer une suggestion à la FCPE en nous faisant parvenir un "
+"message à l'aide du formulaire présent à droite de cette page."
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionafficher.php:46
+msgid "vbo_suggestionafficher_envoyer"
+msgstr "Envoyer suggestion"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionenvoyer.php:14
+msgid "vbo_suggestionenvoyer_titre"
+msgstr "Suggestions :"
+
+#: C:\Users\Nicolas\Documents\NetBeansProjects\sources\adhesion\views\pages\./unit/view.bo.suggestionenvoyer.php:17
+msgid "vbo_suggestionenvoyer_description"
+msgstr ""
+"Votre suggestion a bien été prise en compte. Nous vous remerçions pour vos "
+"remarques, celles-ci seront étudiées dans les prochaines heures par notre "
+"équipe."
+
+#~ msgid "cadre_vote"
+#~ msgstr "Vote :"
+
+#~ msgid "vbo_visites_ville"
+#~ msgstr "Ville :"
+
+#~ msgid "inc_dyna_adresse"
+#~ msgstr "Adresse :"
+
+#~ msgid "inc_media_categorie"
+#~ msgstr "Catégorie :"
+
+#~ msgid "cadre_gps"
+#~ msgstr "Coordonnées GPS :"
+
+#~ msgid "cadre_commerce_aucune_description"
+#~ msgstr "Pas de description disponible."
+
+#~ msgid "vbo_menu_qrcode_description"
+#~ msgstr "Qr code"
+
+#~ msgid "cadre_hab"
+#~ msgstr "hab"
+
+#~ msgid "cadre_population"
+#~ msgstr "Population :"
+
+#~ msgid "cadre_superficie"
+#~ msgstr "Superficie :"
+
+#~ msgid "cadre_densite"
+#~ msgstr "Densité :"
+
+#~ msgid "cadre_prefecture"
+#~ msgstr "Préfecture :"
+
+#~ msgid "cadre_voirpage"
+#~ msgstr "voir la page"
+
+#~ msgid "cadre_wikipedia"
+#~ msgstr "Lien wikipédia :"
+
+#~ msgid "inc_pasaffichage"
+#~ msgstr "Pas d'affichage disponible&nbsp;&nbsp;"
+
+#~ msgid "inc_a"
+#~ msgstr "à"
+
+#~ msgid "inc_pageprecedente"
+#~ msgstr "Page précédente"
+
+#~ msgid "inc_pagesuivante"
+#~ msgstr "Page suivante"
+
+#~ msgid "inc_listecomplete"
+#~ msgstr "Voir la liste complète"
+
+#~ msgid "cadre_capitale"
+#~ msgstr "Capitale :"
+
+#~ msgid "cadre_ville_jour"
+#~ msgstr "Jour"
+
+#~ msgid "cadre_ville_jours"
+#~ msgstr "Jours"
+
+#~ msgid "cadre_ville_semaine"
+#~ msgstr "Sem"
+
+#~ msgid "cadre_ville_typeville"
+#~ msgstr "Commune de type ville"
+
+#~ msgid "cadre_ville_typecampagne"
+#~ msgstr "Commune de type campagne"
+
+#~ msgid "cadre_ville_typevillage"
+#~ msgstr "Commune de type village"
+
+#~ msgid "cadre_ville_typemontagne"
+#~ msgstr "Commune de type montagne"
+
+#~ msgid "cadre_type"
+#~ msgstr "Type :"
+
+#~ msgid "cadre_visite"
+#~ msgstr "Visite :"
+
+#~ msgid "cadre_altitude"
+#~ msgstr "Altitude moyenne :"
+
+#~ msgid "cadre_proximite"
+#~ msgstr "Liste des villes à proximité :"
+
+#~ msgid "vbo_menu_meteo_titre"
+#~ msgstr "M&eacute;t&eacute;o"
+
+#~ msgid "master_profil"
+#~ msgstr "Profil"
+
+#~ msgid "master_ajouter"
+#~ msgstr "Ajouter un adhérent"
+
+#~ msgid "master_rechercher"
+#~ msgstr "Rechercher un adhérent"
+
+#~ msgid "vbo_enregistrerenvoyer_description"
+#~ msgstr ""
+#~ "Votre inscription s'est déroulée avec succés.<br/><br/>Vous devez dès "
+#~ "maintenant confirmer votre adresse email en cliquant sur le lien "
+#~ "d'activation qui vient de vous être transmis par email."
+
+#~ msgid "vbo_activiteajouter_remplir"
+#~ msgstr "Veuillez remplir les données relatives à votre commerce."
+
+#~ msgid "vbo_search_commercetitre"
+#~ msgstr "Commerce : résultat de recherche"
+
+#~ msgid "vbo_search_communetitre"
+#~ msgstr "Commune : résultat de recherche"
+
+#~ msgid "vbo_search_pasterme"
+#~ msgstr "Pas de terme"
+
+#~ msgid "vbo_search_terme"
+#~ msgstr "Terme :"
+
+#~ msgid "vbo_search_croissant"
+#~ msgstr "Croissant"
+
+#~ msgid "vbo_search_decroissant"
+#~ msgstr "Décroissant"
+
+#~ msgid "vbo_all_aucuncommerce"
+#~ msgstr "Il n'y a pas de commerce."
+
+#~ msgid "vbo_all_commerce"
+#~ msgstr "Commerces"
+
+#~ msgid "vbo_search_aucun"
+#~ msgstr "Aucun résultat, veuillez affiner votre recherche."
+
+#~ msgid "cadre_carte_reduire"
+#~ msgstr "Réduire"
+
+#~ msgid "cadre_carte_agrandir"
+#~ msgstr "Agrandir"
+
+#~ msgid "cadre_erreur_contactbanissement_titre"
+#~ msgstr "Limite temporaire :"
+
+#~ msgid "cadre_erreur_contactbanissement_description"
+#~ msgstr ""
+#~ "Ce service ne permet qu'une utilisation unique toute les 10 minutes afin "
+#~ "de limiter les abus. Merci de bien vouloir patienter avant de reposter un "
+#~ "nouveau contact."
+
+#~ msgid "cadre_erreur_erreurappartenancecommerce_description"
+#~ msgstr "Attention ce commerce ne vous appartient pas."
+
+#~ msgid "cadre_erreur_erreurcity_titre"
+#~ msgstr "Attention cette commune n'existe pas :"
+
+#~ msgid "cadre_erreur_erreurcity_description"
+#~ msgstr ""
+#~ "Pour pouvoir afficher la page d'une commune veuillez cliquer sur les "
+#~ "liens des communes."
+
+#~ msgid "cadre_erreur_erreurcontact_titre"
+#~ msgstr "Attention vous n'avez pas rempli tous les champs :"
+
+#~ msgid "cadre_erreur_erreurcontact_description"
+#~ msgstr ""
+#~ "Pour pouvoir valider votre contact, vous devez pour cela remplir "
+#~ "l'ensemble des champs."
+
+#~ msgid "cadre_erreur_erreurdepartement_titre"
+#~ msgstr "Attention ce département n'existe pas :"
+
+#~ msgid "cadre_erreur_erreurdepartement_description"
+#~ msgstr ""
+#~ "Pour pouvoir afficher la page des départements veuillez cliquer sur les "
+#~ "liens des départements."
+
+#~ msgid "cadre_erreur_erreurdepartement_lien"
+#~ msgstr "Revenir &agrave; l'accueil"
+
+#~ msgid "cadre_erreur_erreurprevenir_titre"
+#~ msgstr "Attention vous n'avez pas rempli tous les champs :"
+
+#~ msgid "cadre_erreur_erreurprevenir_description"
+#~ msgstr ""
+#~ "Pour prévenir vos amis, vous devez pour cela remplir l'ensemble des "
+#~ "champs obligatoires."
+
+#~ msgid "cadre_erreur_erreurrecherchevide_titre"
+#~ msgstr "Veuillez préciser votre recherche :"
+
+#~ msgid "cadre_erreur_erreurrecherchevide_description"
+#~ msgstr ""
+#~ "Attention votre recherche n'est pas assez précise, veuillez sélectionner "
+#~ "une commune ou saisir des termes de recherche."
+
+#~ msgid "cadre_erreur_erreurregion_titre"
+#~ msgstr "Attention cette région n'existe pas :"
+
+#~ msgid "cadre_erreur_erreurregion_description"
+#~ msgstr ""
+#~ "Pour pouvoir afficher la page des régions veuillez cliquer sur les liens "
+#~ "des régions."
+
+#~ msgid "cadre_erreur_erreursuppressioncommerce_titre"
+#~ msgstr "Erreur de suppression :"
+
+#~ msgid "cadre_erreur_erreursuppressioncommerce_description"
+#~ msgstr "Ce commerce ne vous appartient pas."
+
+#~ msgid "cadre_erreur_erreurvalidation_titre"
+#~ msgstr "Erreur de validation :"
+
+#~ msgid "cadre_erreur_erreurvalidation_description"
+#~ msgstr "Attention ce lien d'activation n'est pas valide / ou plus valide."
+
+#~ msgid "cadre_erreur_erreurvalidationattente_titre"
+#~ msgstr "Validation en attente :"
+
+#~ msgid "cadre_erreur_erreurvalidationattente_description"
+#~ msgstr ""
+#~ "Pour vous connecter vous devez dès maintenant confirmer votre adresse "
+#~ "email en cliquant sur le lien d'activation qui vous a été transmis par "
+#~ "email."
+
+#~ msgid "cadre_erreur_suggestionbanissement_titre"
+#~ msgstr "Limite temporaire :"
+
+#~ msgid "cadre_erreur_suggestionbanissement_description"
+#~ msgstr ""
+#~ "Ce service ne permet qu'une utilisation unique toute les 10 minutes afin "
+#~ "de limiter les abus. Merci de bien vouloir patienter avant de reposter "
+#~ "une nouvelle suggestion."
+
+#~ msgid "cadre_erreur_suppressioncommerce_titre"
+#~ msgstr "Suppression de votre commerce :"
+
+#~ msgid "cadre_erreur_suppressioncommerce_description"
+#~ msgstr "Votre commerce a été supprimé."
+
+#~ msgid "master_commerces"
+#~ msgstr "Commerces"
+
+#~ msgid "master_villes"
+#~ msgstr "Villes"
+
+#~ msgid "vbo_media_mescommerces"
+#~ msgstr "Mes commerces"
+
+#~ msgid "master_banniere"
+#~ msgstr "Bannière"
+
+#~ msgid "vbo_banner_titre"
+#~ msgstr "Banni&egrave;res"
+
+#~ msgid "vbo_banner_description"
+#~ msgstr ""
+#~ "Vous pouvez prendre contact avec la FCPE en nous faisant parvenir un "
+#~ "message à l'aide du formulaire présent à droite de cette page.<br/"
+#~ ">L'instalation d'une banni&egrave;re peut se faire en copiant l'image "
+#~ "affichée ci-dessous, puis en l'intégrant à votre site, ou bien par copié/"
+#~ "collé du code HTML affiché ci-dessous."
+
+#~ msgid "vbo_banner_banniere"
+#~ msgstr "Notre bannière :"
+
+#~ msgid "vbo_banner_bannierehtml"
+#~ msgstr "Code HTML de notre bannière :"
+
+#~ msgid "vbo_banner_logo"
+#~ msgstr "Notre logo :"
+
+#~ msgid "vbo_banner_logohtml"
+#~ msgstr "Code HTML de notre logo :"
+
+#~ msgid "vbo_beta_titre"
+#~ msgstr "B&ecirc;ta test priv&eacute;"
+
+#~ msgid "vbo_beta_restant"
+#~ msgstr "Temps restant :"
+
+#~ msgid "vbo_beta_saisir"
+#~ msgstr "Saisir votre email pour le b&ecirc;ta test"
+
+#~ msgid "vbo_beta_soumettre"
+#~ msgstr "Soumettre"
+
+#~ msgid "vbo_beta_redirection"
+#~ msgstr ""
+#~ "Votre email fait partie du b&ecirc;ta test :<br/>Vous allez &ecirc;tre "
+#~ "redirig&eacute; vers le site d'ici quelques secondes."
+
+#~ msgid "vbo_beta_deroulement"
+#~ msgstr ""
+#~ "Votre email vient d'&ecirc;tre ajout&eacute; au b&ecirc;ta test :<br/"
+#~ ">Vous allez recevoir d'ici quelques minutes un email contenant "
+#~ "diff&eacute;rentes informations concernant le d&eacute;roulement de la "
+#~ "b&ecirc;ta."
+
+#~ msgid "vbo_changepasswordafficher_titre"
+#~ msgstr "Modification de mot de passe :"
+
+#~ msgid "vbo_changepasswordafficher_description"
+#~ msgstr "Modifiez votre mot de passe à l'aide du formulaire ci-dessous."
+
+#~ msgid "vbo_changepasswordafficher_repeter"
+#~ msgstr "Répéter mot de passe* :"
+
+#~ msgid "vbo_changepasswordafficher_modifier"
+#~ msgstr "Modifier mot de passe"
+
+#~ msgid "vbo_changepasswordenvoyer_titre"
+#~ msgstr "Modification de mot de passe."
+
+#~ msgid "vbo_changepasswordenvoyer_description"
+#~ msgstr ""
+#~ "Votre modification de mot de passe est terminée.<br/><br/>Vous pouvez dès "
+#~ "maintenant vous connectez au site d'adhésion de la FCPE en allant sur la "
+#~ "page de connexion."
+
+#~ msgid "vbo_changepasswordenvoyer_profil"
+#~ msgstr "Retour au profil"
+
+#~ msgid "inc_pays"
+#~ msgstr "Pays"
+
+#~ msgid "inc_region"
+#~ msgstr "Région"
+
+#~ msgid "inc_departement"
+#~ msgstr "Département"
+
+#~ msgid "inc_ville"
+#~ msgstr "Ville"
+
+#~ msgid "vbo_citycountry_principale"
+#~ msgstr "Principales villes de France :"
+
+#~ msgid "vbo_citydepartement_liste"
+#~ msgstr "Liste des villes :"
+
+#~ msgid "vbo_commerceajouterafficher_titre"
+#~ msgstr "Ajouter un commerce"
+
+#~ msgid "vbo_commerceajouter_remplir"
+#~ msgstr "Veuillez remplir les données relatives à votre commerce."
+
+#~ msgid "vbo_commerceajouterafficher_decrire"
+#~ msgstr "Remplissez ici les données qui vous servent à décrire le lieu :"
+
+#~ msgid "vbo_commerceajouter_nom"
+#~ msgstr "Nom"
+
+#~ msgid "vbo_commerceajouterafficher_categoriehelp"
+#~ msgstr ""
+#~ "Catégorie|Veuillez sélectionner la catégorie dans laquelle votre commerce "
+#~ "doit être intégré."
+
+#~ msgid "vbo_activiteajouter_note"
+#~ msgstr "Description* :"
+
+#~ msgid "vbo_commerceajouter_description"
+#~ msgstr "Descriptions"
+
+#~ msgid "vbo_activiteajouter_tag"
+#~ msgstr "Tag* :"
+
+#~ msgid "vbo_commerceajouter_tag"
+#~ msgstr "Tag"
+
+#~ msgid "vbo_activiteajouter_avatar"
+#~ msgstr "Avatar :"
+
+#~ msgid "vbo_activiteajouter_illustration"
+#~ msgstr "Illustration :"
+
+#~ msgid "vbo_activiteajouter_lien"
+#~ msgstr "Lien :"
+
+#~ msgid "vbo_activiteajouter_twitter"
+#~ msgstr "Fil Twitter :"
+
+#~ msgid "inc_dyna_ville"
+#~ msgstr "Ville :"
+
+#~ msgid "vbo_commerceajouter_annuler"
+#~ msgstr "Annuler"
+
+#~ msgid "vbo_commerceajouter_enregistrer"
+#~ msgstr "Enregistrer"
+
+#~ msgid "vbo_commerceajouterenvoyer_titre"
+#~ msgstr "Enregistrement d'un commerce :"
+
+#~ msgid "vbo_commerceajouterenvoyer_description"
+#~ msgstr ""
+#~ "Votre ajout s'est déroulé avec succés.<br/><br/>Vous pouvez revenir à la "
+#~ "liste de vos commerces en cliquant sur le bouton ci-dessous.<br/><br/>"
+
+#~ msgid "vbo_commerceajouterenvoyer_lien"
+#~ msgstr "Mes commerces"
+
+#~ msgid "vbo_commercemodifierafficher_titre"
+#~ msgstr "Modifier un commerce :"
+
+#~ msgid "vbo_commercemodifierafficher_decrire"
+#~ msgstr "Remplissez ici les caractéristiques de votre commerce."
+
+#~ msgid "vbo_commercemodifierenvoyer_titre"
+#~ msgstr "Modification d'un commerce :"
+
+#~ msgid "vbo_commercemodifierenvoyer_description"
+#~ msgstr ""
+#~ "Votre modification s'est déroulée avec succés.<br/><br/>Vous pouvez "
+#~ "revenir à la liste de vos commerces en cliquant sur le bouton ci-dessous."
+#~ "<br/><br/>"
+
+#~ msgid "vbo_connexionenvoyer_information"
+#~ msgstr "Information :"
+
+#~ msgid "vbo_connexionenvoyer_vistepreparation"
+#~ msgstr ""
+#~ "\"Vous avez <strong>%iCountAttente</strong> demande d'ami en attente, <a "
+#~ "href=\"utilisateursattente\">voir la liste en cliquant ici</a>."
+
+#~ msgid "vbo_all_aucuneremarquable"
+#~ msgstr "Il n'y a pas de commune remarquable."
+
+#~ msgid "vbo_all_remarquable"
+#~ msgstr "Communes remarquables"
+
+#~ msgid "inc_continent"
+#~ msgstr "Continent"
+
+#~ msgid "vbo_departementcountry_titre"
+#~ msgstr "Départements de "
+
+#~ msgid "vbo_regioncountry_lettre"
+#~ msgstr "Lettre : "
+
+#~ msgid "vbo_departementregion_titre"
+#~ msgstr "Liste des départements"
+
+#~ msgid "vbo_departementcountry_lettre"
+#~ msgstr "Lettre : "
+
+#~ msgid "vbo_all_aucunmonument"
+#~ msgstr "Il n'y a pas de monument historique."
+
+#~ msgid "vbo_media_modifiercommerce"
+#~ msgstr "Modifier ce commerce"
+
+#~ msgid "vbo_mescommerces_titre"
+#~ msgstr "Mes commerces"
+
+#~ msgid "vbo_mescommerces_navigation"
+#~ msgstr "Mes commerces "
+
+#~ msgid "vbo_mescommerces_aucun"
+#~ msgstr "Vous n'avez pas créé de commerce."
+
+#~ msgid "vbo_premierevisite_connexion"
+#~ msgstr "Connexion effectuée."
+
+#~ msgid "vbo_premierevisite_profil"
+#~ msgstr "Votre profil :"
+
+#~ msgid "vbo_premierevisite_profildescription"
+#~ msgstr ""
+#~ "Vous pouvez accéder directement à votre profil en <a href=\"profil"
+#~ "\">cliquant ici</a>.<br/>"
+
+#~ msgid "vbo_profilediter_genre"
+#~ msgstr "Genre :"
+
+#~ msgid "vbo_profilediter_age"
+#~ msgstr "Age :"
+
+#~ msgid "vbo_profilafficher_bio"
+#~ msgstr "Bio :"
+
+#~ msgid "vbo_reportmedia_note"
+#~ msgstr "Descriptions :"
+
+#~ msgid "vbo_profilediter_blog"
+#~ msgstr "Blog :"
+
+#~ msgid "vbo_profilediter_preferences"
+#~ msgstr "Préférences :"
+
+#~ msgid "vbo_profilediter_profilpublic"
+#~ msgstr "Profil public :"
+
+#~ msgid "vbo_profilafficher_modifiermotpasse"
+#~ msgstr "Modifier mon mot de passe"
+
+#~ msgid "vbo_profilafficher_votreadresse"
+#~ msgstr "Votre adresse :"
+
+#~ msgid "vbo_lieuajouterafficher_telephone"
+#~ msgstr "Téléphone :"
+
+#~ msgid "vbo_profilafficher_codepostal"
+#~ msgstr "Code postal :"
+
+#~ msgid "vbo_chalandise_titre"
+#~ msgstr "Ville :"
+
+#~ msgid "vbo_monuments_departement"
+#~ msgstr "Département : "
+
+#~ msgid "vbo_lieuajouterafficher_inconnue"
+#~ msgstr "Inconnue"
+
+#~ msgid "vbo_profilafficher_modifieradresse"
+#~ msgstr "Modifier mon adresse"
+
+#~ msgid "vbo_profilediter_donneesdecrivant"
+#~ msgstr "Modifiez ici les données vous décrivant."
+
+#~ msgid "vbo_profilediter_bio"
+#~ msgstr "Bio* :"
+
+#~ msgid "vbo_profilediter_lieu"
+#~ msgstr "Lieu :"
+
+#~ msgid "vbo_profilediter_modifierpreferences"
+#~ msgstr "Modifiez ici vos préférences."
+
+#~ msgid "vbo_regenerationafficher_titre"
+#~ msgstr "Modification de mot de passe :"
+
+#~ msgid "vbo_regenerationafficher_description"
+#~ msgstr "Modifiez votre mot de passe à l'aide du formulaire ci-dessous."
+
+#~ msgid "vbo_regenerationafficher_lien"
+#~ msgstr "Modifier mot de passe"
+
+#~ msgid "vbo_regenerationenvoyer_titre"
+#~ msgstr "Modification de mot de passe."
+
+#~ msgid "vbo_regenerationenvoyer_description"
+#~ msgstr ""
+#~ "Votre modification de mot de passe est terminée.<br/><br/>Vous pouvez dès "
+#~ "maintenant vous connectez au site de gestion des adhésions de la FCPE en "
+#~ "allant sur la page de connexion."
+
+#~ msgid "inc_logo_connexion"
+#~ msgstr "Connexion"
+
+#~ msgid "vbo_regioncountry_regionfrance"
+#~ msgstr "Régions de France"
+
+#~ msgid "vbo_reportenvoyer_titre"
+#~ msgstr "Rapporter une erreur :"
+
+#~ msgid "vbo_reportenvoyer_description"
+#~ msgstr ""
+#~ "Votre rapport d'erreur a bien été pris en compte. Nous vous remerçions "
+#~ "pour vos remarques, celles-ci seront étudiées dans les prochaines heures "
+#~ "par notre équipe."
+
+#~ msgid "inc_retour"
+#~ msgstr "Retour"
+
+#~ msgid "vbo_reportmedia_titre"
+#~ msgstr "Rapporter une erreur :"
+
+#~ msgid "vbo_reportmedia_description"
+#~ msgstr "Rapporter une erreur à la FCPE concernant le contenu ci dessous :"
+
+#~ msgid "vbo_reportmedia_type"
+#~ msgstr "Type d'erreur :"
+
+#~ msgid "vbo_reportmedia_envoyer"
+#~ msgstr "Envoyer votre rapport"
+
+#~ msgid "vbo_search_region"
+#~ msgstr "Région :"
+
+#~ msgid "vbo_search_identique"
+#~ msgstr "Identique :"
+
+#~ msgid "vbo_search_proximite"
+#~ msgstr "Proximité :"
+
+#~ msgid "vbo_search_listecomplete"
+#~ msgstr "Liste complète"
+
+#~ msgid "vbo_search_popularite"
+#~ msgstr "Popularité"
+
+#~ msgid "vbo_search_commentaire"
+#~ msgstr "Commentaire"
+
+#~ msgid "vbo_search_affichage"
+#~ msgstr "Affichage"
+
+#~ msgid "vbo_search_nom"
+#~ msgstr "Nom"
+
+#~ msgid "vbo_validation_titre"
+#~ msgstr "Validation :"
+
+#~ msgid "vbo_validation_description"
+#~ msgstr ""
+#~ "La validation de votre email a été effectuée.<br/>Vous pouvez dés "
+#~ "maintenant profiter des fonctionnalités de RateForYou.<br/>"
+
+#~ msgid "vbo_activiteajouter_enregistrer"
+#~ msgstr "Enregistrer"
+
+#~ msgid "vbo_baladeajouter_nomhelp"
+#~ msgstr "Nom|Nom permettant de définir votre balade."
+
+#~ msgid "vbo_commercemodifierafficher_categoriehelp"
+#~ msgstr ""
+#~ "Catégorie|Veuillez sélectionner la catégorie dans laquelle votre commerce "
+#~ "doit être intégré."
+
+#~ msgid "vbo_commercemodifierafficher_notehelp"
+#~ msgstr ""
+#~ "Description|Veuillez saisir une courte description de votre commerce."
+
+#~ msgid "vbo_commercemodifierafficher_taghelp"
+#~ msgstr ""
+#~ "Tag|Saisissez une liste de mot clef séparez par des virgules et "
+#~ "définissant votre commerce."
+
+#~ msgid "vbo_commercemodifierafficher_lienhelp"
+#~ msgstr ""
+#~ "Lien|Adresse d'un site Internet contenant des informations "
+#~ "complémentaires sur votre commerce."
+
+#~ msgid "vbo_commercemodifierafficher_twitterhelp"
+#~ msgstr "Twitter|Identifiant Twitter du fil que vous souhaitez suivre."
+
+#~ msgid "vbo_activiteajouter_lieu"
+#~ msgstr "Lieu :"
+
+#~ msgid "vbo_changepasswordafficher_motpassehelp"
+#~ msgstr ""
+#~ "Mot de passe|Veuillez saisir le mot de passe sécurisant votre futur "
+#~ "compte. La barre colorée située sous la zone de saisie vous permet de "
+#~ "contrôler la complexité de votre mot de passe."
+
+#~ msgid "vbo_changepasswordafficher_repeterhelp"
+#~ msgstr ""
+#~ "Confirmation de mot de passe|Veuillez resaisir le mot de passe sécurisant "
+#~ "votre futur compte."
+
+#~ msgid "vbo_commerceajouterafficher_notehelp"
+#~ msgstr ""
+#~ "Description|Veuillez saisir une courte description de votre commerce."
+
+#~ msgid "vbo_commerceajouterafficher_taghelp"
+#~ msgstr ""
+#~ "Tag|Saisissez une liste de mot clef séparez par des virgules et "
+#~ "définissant votre commerce."
+
+#~ msgid "vbo_commerceajouterafficher_lienhelp"
+#~ msgstr ""
+#~ "Lien|Adresse d'un site Internet contenant des informations "
+#~ "complémentaires sur votre commerce."
+
+#~ msgid "vbo_commerceajouterafficher_twitterhelp"
+#~ msgstr "Twitter|Identifiant Twitter du fil que vous souhaitez suivre."
+
+#~ msgid "vbo_deconnexion_mdp"
+#~ msgstr "Mot de passe oublié ? <a href=\"memoiremdp\">Cliquez ici.</a>"
+
+#~ msgid "inc_media_type"
+#~ msgstr "Type : "
+
+#~ msgid "inc_media_amateur"
+#~ msgstr "Amateur"
+
+#~ msgid "inc_media_commercant"
+#~ msgstr "Commerçant"
+
+#~ msgid "inc_media_professionnel"
+#~ msgstr "Professionnel"
+
+#~ msgid "cadre_utilisateur_guideculturel"
+#~ msgstr "Guide culturel"
+
+#~ msgid "inc_media_office"
+#~ msgstr "Office de tourisme"
+
+#~ msgid "cadre_utilisateur_guideamateur"
+#~ msgstr "Guide amateur"
+
+#~ msgid "vbo_langueinteret_voslangues"
+#~ msgstr "Vos langues :"
+
+#~ msgid "vbo_destination_debutant"
+#~ msgstr "Débutant"
+
+#~ msgid "vbo_destination_intermediaire"
+#~ msgstr "Intermédiaire"
+
+#~ msgid "vbo_destination_expert"
+#~ msgstr "Expert"
+
+#~ msgid "vbo_langueinteret_aucunelangue"
+#~ msgstr "Vous ne parlez aucune langue."
+
+#~ msgid "vbo_langueinteret_vos"
+#~ msgstr "Vos langues :"
+
+#~ msgid "vbo_langueinteret_aucun"
+#~ msgstr "Vous n'avez aucun centre d'intérêt."
+
+#~ msgid "inc_modifier"
+#~ msgstr "Modifier"
+
+#~ msgid "vbo_profilafficher_zoneaction"
+#~ msgstr "Zone d'action :"
+
+#~ msgid "vbo_profilafficher_paszoneaction"
+#~ msgstr "Vous n'avez pas de zone d'action."
+
+#~ msgid "vbo_profilafficher_gererzoneaction"
+#~ msgstr "Gérer sa zone d'action"
+
+#~ msgid "vbo_profilafficher_gererdestination"
+#~ msgstr "Gérer destination"
+
+#~ msgid "vbo_blog_titre"
+#~ msgstr "&nbsp;&nbsp;Le blog"
+
+#~ msgid "vbo_blog_commentaire"
+#~ msgstr " commentaire(s)"
+
+#~ msgid "vbo_blog_poste"
+#~ msgstr "Posté dans "
+
+#~ msgid "vbo_blogdetails_titre"
+#~ msgstr "&nbsp;&nbsp;Le blog"
+
+#~ msgid "vbo_blogdetails_retour"
+#~ msgstr "Retour au blog"
+
+#~ msgid "vbo_all_monuments"
+#~ msgstr "Monuments historiques"
+
+#~ msgid "cadre_lieu_monument"
+#~ msgstr "Monument historique"
+
+#~ msgid "cadre_notice"
+#~ msgstr "Notice :"
+
+#~ msgid "cadre_elementprotege"
+#~ msgstr "Elément protégé :"
+
+#~ msgid "cadre_periodeconstruction"
+#~ msgstr "Période de construction :"
+
+#~ msgid "cadre_propriete"
+#~ msgstr "Propriété :"
+
+#~ msgid "vbo_search_lieutitre"
+#~ msgstr "Lieu : résultat de recherche"
+
+#~ msgid "vbo_all_aucunlieu"
+#~ msgstr "Il n'y a pas de lieu."
+
+#~ msgid "vbo_all_lieu"
+#~ msgstr "Lieux"

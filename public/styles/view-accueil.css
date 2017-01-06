@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "PassingNotes";
+    src: url(../fonts/PassingNotes.ttf);
+}
+
+.carousel{
+    border: 2px solid rgb(44, 62, 80);
+    border-radius: 4px;
+}
+.titre1 {
+    color: #5E5E5E !important;
+    font-weight: bold;
+    height: 470px;
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: none !important;
+    clear:both;
+    max-width: 1060px;
+    font: 34px 'PassingNotes',Helvetica,sans-serif !important;
+}
+
+.titre2 {
+    color: #5E5E5E !important;
+    font-weight: bold;
+    height: 350px;
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: none !important;
+    clear:both;
+    max-width: 1060px;
+    font: 34px 'PassingNotes',Helvetica,sans-serif !important;
+}
+
+.titre3 {
+    color: #5E5E5E !important;
+    font-weight: bold;
+    height: 200px;
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: none !important;
+    clear:both;
+    max-width: 1060px;
+    font: 34px 'PassingNotes',Helvetica,sans-serif !important;
+}
+
+.titre4 {
+    color: #5E5E5E !important;
+    font-weight: bold;
+    height: 70px;
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: none !important;
+    clear:both;
+    max-width: 500px;
+    font: 34px 'PassingNotes',Helvetica,sans-serif !important;
+}
+
+.titre5 {
+    color: #5E5E5E !important;
+    font-weight: bold;
+    height: 70px;
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: none !important;
+    clear:both;
+    max-width: 700px;
+    font: 34px 'PassingNotes',Helvetica,sans-serif !important;
+}
+
+.carousel-caption{
+    max-width: none !important;
+    margin: 0 !important;
+    position: relative !important;
+    left: 0px !important;
+    padding: 0px !important;
+    right: 0px !important;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+    z-index: 50;
+}
+
+.prevArrow {
+    background: url("../images/slider/prev.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 80px;
+    left: 12px;
+    position: absolute;
+    top: 220px;
+    width: 40px;
+}
+
+.nextArrow {
+    background: url("../images/slider/next.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 80px;
+    position: absolute;
+    right: 12px;
+    top: 220px;
+    width: 40px;
+}
