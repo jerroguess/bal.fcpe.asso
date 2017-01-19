@@ -59,7 +59,7 @@ class bocEnregistrerController extends boActionController {
 
     public function soumettre() {
 
-        // Récupération des valeurs.
+        // RÃ©cupÃ©ration des valeurs.
         $strEmail = $this->_request->getParamByKey('mail_Saisie');
         $strPassword1 = $this->_request->getParamByKey('mdp1_Saisie');
         $strPassword2 = $this->_request->getParamByKey('mdp2_Saisie');
@@ -68,7 +68,7 @@ class bocEnregistrerController extends boActionController {
         $bCGU = $this->_request->getParamByKey('cgu_Saisie');
         
         
-        // Objet de vérification des saisies.
+        // Objet de vÃ©rification des saisies.
         $boInput = new common_Input($this->_connection, $this->_request);
         $boInput->addParameter('mail_Saisie', $strEmail);
         $boInput->addParameter('mdp1_Saisie', $strPassword1);
@@ -85,7 +85,7 @@ class bocEnregistrerController extends boActionController {
         $bImageSecurity = $boInput->checkImageSecurity($strReference, $strImage);
         $bParameters = $boInput->checkParameters();
         
-        // Si les variables ont été  vérifiées avec succés.
+        // Si les variables ont Ã©tÃ©  vÃ©rifiÃ©es avec succÃ©s.
         if ($bParameters) {
 
             if ($bEmailUnique) {
@@ -101,7 +101,7 @@ class bocEnregistrerController extends boActionController {
 
                             if ($bImageSecurity) {
 
-                                // Sauvegarde des données.
+                                // Sauvegarde des donnÃ©es.
 
                                 $_SESSION['id_utilisateur'] = $boUser->addUser($strEmail, $strPassword1, 1);
                                 $_SESSION["prenom"] = "";
@@ -110,7 +110,7 @@ class bocEnregistrerController extends boActionController {
 								$_SESSION["statut_connection"] = 1;
 								
                                 // Redirection vers la page de planification.
-								$this->redirect(SITE_PATH . fct_form_Url(100, array("connexion")));
+								$this->redirect(SITE_PATH . fct_form_Url(100, array("updateparent")));
                             } else {
                                 // Affichage du message d'erreur.
                                 $this->_strErrorFile = "enregistrererreurimage";
